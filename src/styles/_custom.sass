@@ -2,13 +2,15 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 60%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 69%
+    right: 25%
+    -webkit-animation: spin 4s linear infinite
+    -moz-animation: spin 4s linear infinite
+    animation: spin 4s linear infinite
 
 
 @keyframes float1
@@ -17,3 +19,254 @@
 
   100%
     transform: translateY(0px)
+
+@-moz-keyframes spin 
+  100%
+    -moz-transform: rotate(360deg)
+
+@-webkit-keyframes spin  
+  100%
+    -webkit-transform: rotate(360deg)
+
+@keyframes spin 
+  100% 
+    -webkit-transform: rotate(360deg) 
+    transform:rotate(360deg)
+
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #000 !important
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #000 !important
+
+.boton *, .boton--sm *
+  color: #fff !important
+
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .bg--gradientBlue, .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80% 
+
+@media only screen and (min-width: 390px) and (max-width: 391px)
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .bg--gradientBlue, .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80%
+
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+@media only screen and (min-width: 390px) and (max-width: 391px)
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
+  color: #000 !important
+
+.banner-interno__titulo__icono
+  background-color: #000 !important
+
+.tema1
+  .BGIMG01
+    border-radius: 15px
+    background-image: url("../assets/curso/temas/fondo1.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+  
+  .slyder__btn
+    background-color: $color-acento-botones
+    color: #ffff
+
+  .slyder-f__btn i
+    color: $color-acento-botones
+
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #4B6280
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    color: #ffff
+
+  .bloque-texto-f.color-acento-contenido:before
+    background-color: #E3ECF7
+
+  .lista-ul li > i:first-of-type, .lista-ul--separador li > i:first-of-type, .lista-ul--color li > i:first-of-type
+    font-size: 0.7rem
+  
+  .tarjeta--azul
+    background-color: #E0E5EC
+  
+  .tarjeta.tarjeta--azul.acordion__activo
+    background-color: #E4FDFB
+
+  .acordion__accion__btn--a
+    background-color: $color-acento-botones
+    color: #ffff
+
+  .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: $color-acento-botones
+    color: #fff
+
+  .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content 
+    background: linear-gradient(0deg,#E3ECF7, #EEF5FF)
+
+  .tarjeta--gris
+    background-color: #E0E5EC
+
+  .tarjeta-avatar-b__img 
+    img
+      width: 80%
+      
+  .tarjeta-avatar-b .tarjeta
+    padding-left: 6%
+    margin-left: -11%
+
+.tema2
+  .lista-ul li > i:first-of-type, .lista-ul--separador li > i:first-of-type, .lista-ul--color li > i:first-of-type
+    font-size: 0.7rem
+
+  .tabs-a__tab
+    background-color: #E0E5EC
+
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #4B6280
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+
+  .BGIMG01
+    border-radius: 15px
+    background-image: url("../assets/curso/temas/fondo1.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+
+  .slyder__btn
+    background-color: $color-acento-botones
+    color: #ffff
+
+  .tarjeta.color-acento-botones, p, b
+    color: #000 !important
+
+  .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: $color-acento-botones
+    color: #fff
+
+  .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content 
+    background: linear-gradient(0deg,#E3ECF7, #EEF5FF)
+
+  .tarjeta--gris
+    background-color: #E0E5EC
+
+  .bloque-texto-c.color-primario
+    background: linear-gradient(0deg,#E3ECF7, #EEF5FF)
+
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    color: #fff
+
+  .tarjeta-avatar-b__img 
+    img
+      width: 80%
+
+  .tarjeta-avatar-b .tarjeta
+    padding-left: 6%
+    margin-left: -11%
+
+  .BGIMG02
+    background-image: url("../assets/curso/temas/tema2/fondo.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+
+.tema3
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #4B6280
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+
+  .BGIMG03
+    background-image: url("../assets/curso/temas/tema3/fondo.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+    border-radius: 20px
+
+  .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    background-color: $color-acento-botones
+    color: #fff
+
+  .tarjeta-avatar-b__img 
+    img
+      width: 80%
+
+  .tarjeta-avatar-b .tarjeta
+    padding-left: 6%
+    margin-left: -11%
+
+  .BGIMG01
+    border-radius: 15px
+    background-image: url("../assets/curso/temas/fondo1.svg")
+    background-size: cover 
+    background-repeat: no-repeat
+    background-position: center
+
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    color: #ffff
+  
+  .lista-ul li > i:first-of-type, .lista-ul--separador li > i:first-of-type, .lista-ul--color li > i:first-of-type
+    font-size: 0.7rem
+
+  .tabs-a__tab
+    background-color: #E0E5EC
+
+  .slyder__btn
+    background-color: $color-acento-botones
+    color: #ffff
+
+  .slyder-f__btn i
+    color: $color-acento-botones

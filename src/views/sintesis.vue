@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El componente formativo el buyer persona según el contexto empresarial se centra en aspectos cruciales para comprender y atraer a los clientes de manera efectiva. Inicia explorando el campo del mercadeo, abordando el marketing en entornos digitales, la planeación estratégica y la segmentación como herramientas clave. Luego, se adentra en la construcción de la propuesta de valor de la organización, utilizando modelos como el de negocio, el Canvas y el ciclo de vida del producto digital. Asimismo, se examinan elementos esenciales como la marca. El componente también profundiza en la elaboración de mapas de empatía, arquetipos digitales y personas compradoras, desglosando sus características distintivas y su papel en la comprensión del cliente, complementado con el concepto de prospecto de cliente y sus atributos.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo el buyer persona según el contexto empresarial se muestran tres temas principales, el mercadeo, la propuesta de valor y los mapas de empatía, arquetipos y buyer persona, que incluyen en sus elementos las estrategias y tácticas clave para comprender y atraer a los clientes de manera efectiva.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
