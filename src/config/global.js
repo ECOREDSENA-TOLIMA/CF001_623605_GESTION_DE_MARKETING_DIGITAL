@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'El <em>buyer</em> persona según el contexto empresarial.',
+      'El <em>buyer</em> persona según el contexto empresarial',
     descripcionCurso:
       'Es vital delimitar el <em>buyer</em> persona en la estrategia de mercadeo digital para tener más oportunidades de éxito. Cuanto más conozcamos al cliente ideal, mejor se puede relacionar una marca con él para atraerlo hacia la empresa y darle el mensaje adaptado a su perfil y es así como la marca se puede convertir en su referente. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -38,7 +38,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Marketing en entornos digitales',
+            titulo: '<em>Marketing</em> en entornos digitales',
             hash: 't_1_1',
           },
           {
@@ -241,7 +241,7 @@ export default {
     {
       termino: '<em>Marketing</em> digital',
       significado:
-        'módulo de la mercadotecnia que usa internet y tecnologías digitales online, como ordenadores, telefonía celular y demás plataformas y canales digitales para promocionar productos.',
+        'módulo de la mercadotecnia que usa internet y tecnologías digitales <em>online,</em> como ordenadores, telefonía celular y demás plataformas y canales digitales para promocionar productos.',
     },
     {
       termino: 'Mercadeo',
@@ -254,7 +254,7 @@ export default {
         'mezcla de bienes, servicios, marcas, inversiones y todas las unidades de negocio que pueden conformar una compañía.',
     },
     {
-      termino: 'Segmentació',
+      termino: 'Segmentación',
       significado:
         'técnica por la cual se dividen los clientes potenciales en diferentes grupos, que permiten que las marcas puedan remitir mensajes personalizados al público objetivo.',
     },

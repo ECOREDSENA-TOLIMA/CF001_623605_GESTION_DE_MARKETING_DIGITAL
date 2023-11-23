@@ -9,7 +9,7 @@
 
     .row.mb-4
       .col-md-9
-        p Según Kotler y Keller (2012), el mercadeo busca la identificación y satisfacción de las necesidades del ser humano de forma rentable. La empresa eBay, al reconocer que sus clientes no podían ubicar unos artículos deseados por ellos, se dio a la tarea de crear un foro para atenderlos de manera online. La empresa IKEA, al darse cuenta de que sus clientes deseaban buenos muebles con precios más bajos, ajusto sus costos. Las dos empresas entendieron el mercadeo y la inteligencia de marketing, convirtiendo una necesidad individual o social en una oportunidad empresarial que dio como resultado su rentabilidad.
+        p Según Kotler y Keller (2012), el mercadeo busca la identificación y satisfacción de las necesidades del ser humano de forma rentable. La empresa eBay, al reconocer que sus clientes no podían ubicar unos artículos deseados por ellos, se dio a la tarea de crear un foro para atenderlos de manera <em>online.</em> La empresa IKEA, al darse cuenta de que sus clientes deseaban buenos muebles con precios más bajos, ajusto sus costos. Las dos empresas entendieron el mercadeo y la inteligencia de <em>marketing,</em> convirtiendo una necesidad individual o social en una oportunidad empresarial que dio como resultado su rentabilidad.
         p Para ampliar el concepto de mercado, el siguiente video detalla elementos de valor y aporte para este ítem. 
 
       .col-md-3
@@ -93,7 +93,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 <em>Marketing</em> en entornos digitales 
 
-    p.mb-5 Según Xie y Min (2019), el objetivo del <em>marketing</em> digital es aprovechar internet y demás formas de promoción <em>online</em> para comunicarse con el público objetivo de forma rentable, y permitiendo un trabajo colaborativo con socios empresariales con los que pueda existir un interés en común. Cuando se habla de <em>marketing</em> digital, primero se habla de estrategias y herramientas alojadas en la web, y segundo, se habla también de las pantallas digitales a través de computadores de escritorio, portátiles, celulares, tablets, televisores, consolas de videojuegos y relojes <em>smart.</em> 
+    p.mb-5 Según Xie y Min (2019), el objetivo del <em>marketing</em> digital es aprovechar internet y demás formas de promoción <em>online</em> para comunicarse con el público objetivo de forma rentable, y permitiendo un trabajo colaborativo con socios empresariales con los que pueda existir un interés en común. Cuando se habla de <em>marketing</em> digital, primero se habla de estrategias y herramientas alojadas en la <em>web,</em> y segundo, se habla también de las pantallas digitales a través de computadores de escritorio, portátiles, celulares, tablets, televisores, consolas de videojuegos y relojes <em>smart.</em> 
 
     .row.mb-5
       .col-md-4.mb-3
@@ -104,7 +104,7 @@
         .row
           .col-lg-12
             .cajon.color-secundario.p-4.mb-4(style="background-color:#FFFBE5")
-              p Algo muy importante que tiene la web es que los clientes pueden encontrar una gran cantidad de opciones, desde sitios de destino hasta precios, que pasan desde los costosos hasta los económicos. Por eso, la importancia de promocionarse en entornos digitales.  
+              p Algo muy importante que tiene la <em>web</em> es que los clientes pueden encontrar una gran cantidad de opciones, desde sitios de destino hasta precios, que pasan desde los costosos hasta los económicos. Por eso, la importancia de promocionarse en entornos digitales.  
 
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
@@ -207,7 +207,7 @@
             img(src='@/assets/curso/temas/tema1/img-15.png')
           .col-8
             p Rivelli (2019) afirma que la elaboración de un plan de mercadeo es el resultado de un minucioso proceso en el que cada fase va a estar directamente conectada con las demás, con el fin de la obtención final del documento. El liderazgo en la preparación de un plan de mercadeo depende de cada marca y de su organización interna. Por lo general, las Pymes se centran en la figura de los responsables de mercadeo o del mismo gerente, si la compañía es pequeña. 
-            p En el mercado se pueden encontrar herramientas de software para desarrollar planes de mercadeo. Estas herramientas se diseñan de forma especial para Pymes y pequeños empresarios, que, a corto plazo y de una forma sencilla, podrán aprender a elaborar y revisar sus propios planes de mercadeo efectiva y rentablemente.
+            p En el mercado se pueden encontrar herramientas de <em>software</em> para desarrollar planes de mercadeo. Estas herramientas se diseñan de forma especial para Pymes y pequeños empresarios, que, a corto plazo y de una forma sencilla, podrán aprender a elaborar y revisar sus propios planes de mercadeo efectiva y rentablemente.
 
     .row.align-items-center.mb-4
       .col-auto.pe-0(style="z-index:2")
@@ -239,7 +239,7 @@
                         | El DOFA. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | La creación y diseño del sitio web. 
+                        | La creación y diseño del sitio <em>web.</em> 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Los objetivos del proyecto digital. 
@@ -248,16 +248,16 @@
                         | El talento humano que conformará el proyecto. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | La descripción minuciosa de los contenidos digitales y funciones del sitio web. 
+                        | La descripción minuciosa de los contenidos digitales y funciones del sitio <em>web.</em> 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | El valor agregado que brinda el proyecto para el público objetivo. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | El método de análisis con el que puede conseguir información importante sobre el sitio web. 
+                        | El método de análisis con el que puede conseguir información importante sobre el sitio <em>web.</em> 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | El posicionamiento web. 
+                        | El posicionamiento <em>web.</em> 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Los propios valores y la filosofía de la marca digital. 
@@ -272,7 +272,7 @@
                     ul.lista-ul.mb-3
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | El sitio web de la competencia y las diferencias con la marca. 
+                        | El sitio <em>web</em> de la competencia y las diferencias con la marca. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Las formas de promoción y distribución.  
@@ -317,7 +317,7 @@
                         | Tamaño del mercado. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | Satisfacción de necesidades y deseos de los clientes a través del sitio web.
+                        | Satisfacción de necesidades y deseos de los clientes a través del sitio <em>web.</em>
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Comportamiento digital de los usuarios y otras webs que transitan. 
@@ -347,8 +347,8 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img-19-2.svg', alt='Texto que describa la imagen')
 
-              p En el plan de mercadeo digital se deben establecer los objetivos cuantitativos y cualitativos que va a perseguir la marca con la creación del sitio web. Así, cada marca podrá elegir los objetivos más convenientes, con el fin de lograr la rentabilidad esperada en la planeación estratégica. 
-              p Estos objetivos dependen de las características del producto ofrecido en la web y, se pueden basar en: 
+              p En el plan de mercadeo digital se deben establecer los objetivos cuantitativos y cualitativos que va a perseguir la marca con la creación del sitio <em>web.</em> Así, cada marca podrá elegir los objetivos más convenientes, con el fin de lograr la rentabilidad esperada en la planeación estratégica. 
+              p Estos objetivos dependen de las características del producto ofrecido en la <em>web</em> y, se pueden basar en: 
 
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -363,7 +363,7 @@
                         | Creación de marca. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | Posicionamiento web. 
+                        | Posicionamiento <em>web.</em> 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Atención al cliente. 
@@ -385,7 +385,7 @@
 
           .row(titulo="Etapa 3. Elección y desarrollo de las estrategias de <em>marketing</em>")
             .col-md-12.mb-4.mb-md-0
-              p Esta etapa sirve para la consecución de los objetivos. Para la definición de las estrategias se deben tener en cuenta las “4P” desde lo digital que, mezcladas de la manera más provechosa, darán como resultado en una estrategia coherente con el producto ofrecido en la web. 
+              p Esta etapa sirve para la consecución de los objetivos. Para la definición de las estrategias se deben tener en cuenta las “4P” desde lo digital que, mezcladas de la manera más provechosa, darán como resultado en una estrategia coherente con el producto ofrecido en la <em>web.</em> 
               p El listado de temas para considerar en la formulación de estrategias es el siguiente:
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -615,7 +615,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/decorador-18.svg', alt='Texto que describa la imagen')
               
-            p.text-center(style="color:#000") La planeación táctica de mercadeo especifica las tácticas de marketing que contienen las características del producto, publicidad, comercio, adjudicación de precios, distribución y servicio.  
+            p.text-center(style="color:#000") La planeación táctica de mercadeo especifica las tácticas de <em>marketing</em> que contienen las características del producto, publicidad, comercio, adjudicación de precios, distribución y servicio.  
         
         p.mb-5 Como complemento al desarrollo de una adecuada y bien formulada planeación estratégica veamos en la siguiente imagen la secuencia correspondiente a la planificación, implementación y control. 
 
@@ -845,10 +845,10 @@
 
               .row.justify-content-center.align-items-center.mb-0
                 .col-10.col-md-10.col-lg-12
-                  figure
+                  figure.mb-3
                     img(src='@/assets/curso/temas/tema1/img-36.png', alt='Texto que describa la imagen')
 
-              p El primer ítem del software, estilo, representa que los empleados comparten una forma de comportarse y pensar. El segundo ítem, habilidades, involucra que los empleados tienen habilidades que sirven para llevar a cabo la estrategia empresarial. El ítem personal describe que la marca ha contratado personas capaces, asignándolas a los trabajos precisos para cada cual. El cuarto ítem, valores compartidos, muestra que los empleados comparten los mismos valores y se guían por ellos. Cuando todos estos ítems están presentes, las empresas pueden tener más éxito a la hora de implementar su estrategia.
+              p El primer ítem del <em>software,</em> estilo, representa que los empleados comparten una forma de comportarse y pensar. El segundo ítem, habilidades, involucra que los empleados tienen habilidades que sirven para llevar a cabo la estrategia empresarial. El ítem personal describe que la marca ha contratado personas capaces, asignándolas a los trabajos precisos para cada cual. El cuarto ítem, valores compartidos, muestra que los empleados comparten los mismos valores y se guían por ellos. Cuando todos estos ítems están presentes, las empresas pueden tener más éxito a la hora de implementar su estrategia.
           
           .row(titulo="Paso 7. Control y retroalimentación")
             .col-md-12.mb-4.mb-md-0
@@ -865,7 +865,7 @@
       h2 1.3  Segmentación 
 
     p Tal como afirman Rodríguez, Montes y López (2007), en los mercados amplios, grandes y diversos, es una utopía que las marcas se puedan contactar con todos los clientes. Lo que sí se puede hacer es dividir esos mercados en grupos de consumidores homogéneos, o sea, segmentos que se conforman por tener las mismas necesidades y deseos. La marca, entonces, necesita elegir los segmentos de mercado que puede atender con eficacia. 
-    p.mb-5 Para ser más competitivos, muchas marcas han adoptado en la actualidad el <em>marketing</em> dirigido, o sea, enfocarse en aquellas clientes que tienen mejor opción de satisfacer. Para ser efectivo, el marketing dirigido exige que los especialistas en mercadeo:
+    p.mb-5 Para ser más competitivos, muchas marcas han adoptado en la actualidad el <em>marketing</em> dirigido, o sea, enfocarse en aquellas clientes que tienen mejor opción de satisfacer. Para ser efectivo, el <em>marketing</em> dirigido exige que los especialistas en mercadeo:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
@@ -910,7 +910,7 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Segmentación geográfica")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Permite concebir dónde están localizados de forma geográfica los consumidores potenciales del producto. Trabaja sobre el principio de que la gente que corresponde a esa zona geográfica tiene necesidades, deseos y características culturales parecidas. Con estos datos las marcas pueden crear sus campañas de manera estratégica, usando el lenguaje correcto y comprendiendo si su oferta es importante para las personas de esa región. Para hacer una segmentación geográfica debes tener en cuenta algunas variables:
+              p Permite concebir dónde están localizados de forma geográfica los consumidores potenciales del producto. Trabaja sobre el principio de que la gente que corresponde a esa zona geográfica tiene necesidades, deseos y características culturales parecidas. Con estos datos las marcas pueden crear sus campañas de manera estratégica, usando el lenguaje correcto y comprendiendo si su oferta es importante para las personas de esa región. Para hacer una segmentación geográfica debes tener en cuenta algunas variables:
               
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -919,13 +919,13 @@
                     ul.lista-ul.mb-3
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | <strong>Localización.</strong> Puede ir desde un continente hasta un vecindario. 
+                        | <strong>Localización:</strong> puede ir desde un continente hasta un vecindario. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | <strong>Clima.</strong> Relevancia de los cambios climáticos en la conducta,  incluyendo estaciones.  
+                        | <strong>Clima:</strong> relevancia de los cambios climáticos en la conducta,  incluyendo estaciones.  
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | <strong>Cultura.</strong> Fundamental para crear campañas exitosas en cualquier parte del mundo. 
+                        | <strong>Cultura:</strong> fundamental para crear campañas exitosas en cualquier parte del mundo. 
                   
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-md-10.col-lg-12
@@ -934,7 +934,7 @@
 
           .row(numero="2" titulo="Segmentación demográfica")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socio económico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir. 
+              p Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socio económico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir. 
             
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-md-10.col-lg-12
@@ -943,7 +943,7 @@
 
           .row(numero="3" titulo="Segmentación psicográfica")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Permite dividir según la personalidad como los estilos de vida, intereses, deseos, hobbies, gustos, anhelos, inquietudes, sentimientos, opiniones y valores. 
+              p Permite dividir según la personalidad como los estilos de vida, intereses, deseos, hobbies, gustos, anhelos, inquietudes, sentimientos, opiniones y valores. 
 
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-md-10.col-lg-12
@@ -952,7 +952,7 @@
           
           .row(numero="4" titulo="Segmentación conductual ")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Permite dividir a los compradores en grupos con base en los hábitos de consumo, como la actitud, el modo de uso, nivel de uso, beneficios (calidad, precio, servicio), fidelidad de marca, respuesta a un producto y tipo de usuario, entre otras.
+              p Permite dividir a los compradores en grupos con base en los hábitos de consumo, como la actitud, el modo de uso, nivel de uso, beneficios (calidad, precio, servicio), fidelidad de marca, respuesta a un producto y tipo de usuario, entre otras.
 
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-md-10.col-lg-12
@@ -967,7 +967,7 @@
         .p-2
           h3.mb-0.ms-3 Bases para segmentar los mercados empresariales
 
-    p.mb-5 Se puede segmentar los mercados de las empresas usando algunas variables empleadas para segmentación de mercados de consumo, como por ejemplo, geografía, beneficios buscados y nivel de utilización, pero los especialistas en mercadeo B2B (Business to Business) tienen en cuenta otras variables como las siguientes:
+    p.mb-5 Se puede segmentar los mercados de las empresas usando algunas variables empleadas para segmentación de mercados de consumo, como por ejemplo, geografía, beneficios buscados y nivel de utilización, pero los especialistas en mercadeo B2B <em>(Business to Business)</em> tienen en cuenta otras variables como las siguientes:
 
     .row.justify-content-center.mt-5.mb-5
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")

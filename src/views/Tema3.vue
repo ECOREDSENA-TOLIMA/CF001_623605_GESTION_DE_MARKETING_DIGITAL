@@ -37,7 +37,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En la actualidad, con tantos conflictos globales, se escucha a menudo la frase “el mundo necesita más empatía”. Esto es debido a que la empatía tiene la habilidad de entender el estado emocional de alguien al ubicarse en su lugar, permitiendo analizar los contextos sobre diferentes perspectivas. Esta herramienta fue diseñada por la empresa Xplane y, a través de ella, se personaliza, caracteriza y establece un enfoque más empático del consumidor. El mapa de empatía ayuda a ahondar en la comprensión del cliente porque se puede conocer su personalidad, visión, entorno, deseos y necesidades.
 
-        p.mb-5 Ahora se debe imaginar cómo estos sentimientos se deben ubicar en categorías divididas por dolores, necesidades y sentimientos, y en cuadrantes que hacen fácil la visualización. Así es como funciona el mapa de empatía, su objetivo es detallar la personalidad del cliente para entenderlo mejor. Se puede diseñar en un tablero, flip chart, cartelera o digitalmente y cuando se hace en papel, su diseño se completa con post-its. Independiente de cuál sea el soporte, el mapa de empatía se debe dividir de la siguiente forma:
+        p.mb-5 Ahora se debe imaginar cómo estos sentimientos se deben ubicar en categorías divididas por dolores, necesidades y sentimientos, y en cuadrantes que hacen fácil la visualización. Así es como funciona el mapa de empatía, su objetivo es detallar la personalidad del cliente para entenderlo mejor. Se puede diseñar en un tablero, <em>flip chart</em>, cartelera o digitalmente y cuando se hace en papel, su diseño se completa con <em>post-its.</em> Independiente de cuál sea el soporte, el mapa de empatía se debe dividir de la siguiente forma:
         
         .row.justify-content-center.align-items-center.mb-5
           .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
@@ -281,7 +281,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema3/img-22.png' alt='AvatarTop')
-          p Examinar de qué forma se enlazan los productos con las expectativas del buyer persona y establecer los conceptos y la comunicación con las que se piensa cautivar a los posibles clientes.
+          p Examinar de qué forma se enlazan los productos con las expectativas del <em>buyer</em> persona y establecer los conceptos y la comunicación con las que se piensa cautivar a los posibles clientes.
 
         .tarjeta.color-primario.p-4.col-ipad(style="background-color:#E3ECF7")
           .row.justify-content-center.mb-3
@@ -328,7 +328,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Adopter</em> (el masivo)
-            p El interés por lo digital surgió por la influencia del círculo social; por lo que su conducta digital está basada en chats, compartición de imágenes, memes y videos virales. Acogen el uso de formatos nuevos y plataformas de una manera lenta y poco frecuente. Compran digitalmente en plataformas confiables, cercanas y de credibilidad. Empleados o independientes de áreas técnicas, comerciales y operativas; amas de casa; edad entre los 25 y 45 años.
+            p El interés por lo digital surgió por la influencia del círculo social; por lo que su conducta digital está basada en <em>chats,</em> compartición de imágenes, memes y videos virales. Acogen el uso de formatos nuevos y plataformas de una manera lenta y poco frecuente. Compran digitalmente en plataformas confiables, cercanas y de credibilidad. Empleados o independientes de áreas técnicas, comerciales y operativas; amas de casa; edad entre los 25 y 45 años.
 
           .col-md-6.col-ipad
             figure
@@ -337,7 +337,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>High digital</em> (los superdigitales)
-            p Incluyen a su vida las nuevas tecnologías que le permiten evitar los trámites presenciales para ahorrar tiempo. Toman excelentes decisiones al usar aplicaciones especialistas en potenciar el rendimiento laboral y personal. Compran de manera regular a través de la web. Son reservados con el uso del social media, pero hacen parte de comunidades virtuales para compartir conocimiento sobre temas sociales o de su área profesional.  Poseen cargos administrativos que les permiten, en algunas situaciones, tomar decisiones relevantes. Tienen una edad entre los 25 y 50 años.
+            p Incluyen a su vida las nuevas tecnologías que le permiten evitar los trámites presenciales para ahorrar tiempo. Toman excelentes decisiones al usar aplicaciones especialistas en potenciar el rendimiento laboral y personal. Compran de manera regular a través de la <em>web.</em> Son reservados con el uso del social media, pero hacen parte de comunidades virtuales para compartir conocimiento sobre temas sociales o de su área profesional.  Poseen cargos administrativos que les permiten, en algunas situaciones, tomar decisiones relevantes. Tienen una edad entre los 25 y 50 años.
 
           .col-md-6.col-ipad
             figure
@@ -346,7 +346,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 <em>Mix</em> (mezcla entre superdigitales y tradicionales)
-            p Para el uso de la tecnología, dependen de su círculo social más cercano. Aprecian los dispositivos asistenciales de salud, aprendizaje y diversión. Valoran cuando se les brinda información concisa y completa; pueden comprar online siempre y cuando estén seguros del medio por el cual lo hacen. Tienen liderazgo en el momento de tomar decisiones. Son mayores de 50 años de edad.
+            p Para el uso de la tecnología, dependen de su círculo social más cercano. Aprecian los dispositivos asistenciales de salud, aprendizaje y diversión. Valoran cuando se les brinda información concisa y completa; pueden comprar <em>online</em> siempre y cuando estén seguros del medio por el cual lo hacen. Tienen liderazgo en el momento de tomar decisiones. Son mayores de 50 años de edad.
 
           .col-md-6.col-ipad
             figure
@@ -355,7 +355,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Tradicional (abuelo conservador)
-            p Tienen más de 55 años de edad. Algunos ya están pensionados, otros laboran de manera independiente. No poseen interés por aprender nuevas tecnologías; pero lo pueden hacer si es realmente necesario. Dependen de otras personas para usar la tecnología porque se les dificulta entender el lenguaje online. Su uso es limitado a conversar, buscar en Google y usar una que otra red social. En pocas ocasiones efectúan transacciones virtuales. 
+            p Tienen más de 55 años de edad. Algunos ya están pensionados, otros laboran de manera independiente. No poseen interés por aprender nuevas tecnologías; pero lo pueden hacer si es realmente necesario. Dependen de otras personas para usar la tecnología porque se les dificulta entender el lenguaje <em>online.</em> Su uso es limitado a conversar, buscar en Google y usar una que otra red social. En pocas ocasiones efectúan transacciones virtuales. 
 
           .col-md-6.col-ipad
             figure
@@ -368,7 +368,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Concepto de <em>buyer</em> persona
 
-    p.mb-5 El buyer persona es la representación ficticia del cliente ideal. Está basada en datos reales relacionados con la conducta y particularidades demográficas de los clientes, así como en el diseño de las historias personales, desafíos, metas, motivaciones e inquietudes.
+    p.mb-5 El <em>buyer</em> persona es la representación ficticia del cliente ideal. Está basada en datos reales relacionados con la conducta y particularidades demográficas de los clientes, así como en el diseño de las historias personales, desafíos, metas, motivaciones e inquietudes.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
@@ -389,7 +389,7 @@
         .p-2
           h3.mb-0.ms-3 Diferencia entre <em>buyer</em> persona y público objetivo
 
-    p.mb-5 Para comprender esta diferencia es importante destacar que el público objetivo identifica un perfil del posible cliente con detalles generales que lo ubican en segmentos específicos, mientras que el buyer persona describe a una persona ficticia, pero que cumple de manera detallada todo lo que el prospecto de cliente en el perfil, las emociones, expectativas y demás, con el siguiente ejemplo se detalla la diferencia. 
+    p.mb-5 Para comprender esta diferencia es importante destacar que el público objetivo identifica un perfil del posible cliente con detalles generales que lo ubican en segmentos específicos, mientras que el <em>buyer</em> persona describe a una persona ficticia, pero que cumple de manera detallada todo lo que el prospecto de cliente en el perfil, las emociones, expectativas y demás, con el siguiente ejemplo se detalla la diferencia. 
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5(style="background-color:#E3ECF7")
@@ -412,7 +412,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
-        p Como se puede apreciar, el público objetivo abarca una parte de la sociedad a la cual se dirigen los productos de la marca. Por su lado el buyer persona representa al cliente ideal, de manera más humanizada y personalizada. Inicialmente pueden ser muy parecidos, pero es diferente pensar una estrategia de marketing digital que se direcciona a Carlos, en vez de un público objetivo bastante amplio. 
+        p Como se puede apreciar, el público objetivo abarca una parte de la sociedad a la cual se dirigen los productos de la marca. Por su lado el <em>buyer</em> persona representa al cliente ideal, de manera más humanizada y personalizada. Inicialmente pueden ser muy parecidos, pero es diferente pensar una estrategia de <em>marketing</em> digital que se direcciona a Carlos, en vez de un público objetivo bastante amplio. 
         p.mb-5 Por otro lado, si se piensa que se ha segmentado muy a fondo, no es necesario limitarse a un solo <em>buyer</em> persona. Es normal que las marcas tengan más de un <em>buyer</em> persona determinada, pero siempre y cuando no se exagere en la cantidad a la hora de elegirlas.
 
     .row.align-items-center.mb-4
@@ -421,7 +421,7 @@
           img(src='@/assets/curso/temas/icono.svg', style="width: 30px" ,alt='').m-auto
       .col-auto.bg-c8(style="z-index:1")
         .p-2
-          h3.mb-0.ms-3 Cuestiones que le ayudarán a definir el buyer persona
+          h3.mb-0.ms-3 Cuestiones que le ayudarán a definir el <em>buyer</em> persona
     
     p.mb-5 Es hora de orientarse por el perfil del cliente típico, o sea, dejarse llevar por la mayoría para dar respuesta a algunas preguntas que ayudarán a definir el perfil de la conducta del <em>buyer</em> persona; los siguientes interrogantes permiten dar mayor claridad sobre el concepto definido:
 
@@ -494,7 +494,6 @@
     p El siguiente paso es crear el perfil del cliente de acuerdo con las respuestas conseguidas. Con eso, se pueden agrupar los datos y crear el personaje en un documento que se pone a disposición de todo el equipo de trabajo, para tener un aval final, y si es del caso, hacer alguna corrección.
     p.mb-5 Algunas particularidades que se usan para crear los <em>buyer</em> persona son:
 
- 
     .tarjeta.tarjeta.p-4.mt-4.mb-4(style="background:#E3ECF7")(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
         .col-lg-5
@@ -640,14 +639,14 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
-        p Otra opción es usar un modelo gráfico para su representación. Se puede considerar también que el buyer persona puede ser alguien que no sabe si busca la empresa, sino más bien la solución a un problema. Esto sucede a menudo en sitios de empresas que desarrollan inbound marketing. Entonces, se debe plantear: ¿cómo se puede abordar y exponer el contenido relacionado con el mercado para ese buyer persona?
+        p Otra opción es usar un modelo gráfico para su representación. Se puede considerar también que el <em>buyer</em> persona puede ser alguien que no sabe si busca la empresa, sino más bien la solución a un problema. Esto sucede a menudo en sitios de empresas que desarrollan <em>inbound marketing.</em> Entonces, se debe plantear: ¿cómo se puede abordar y exponer el contenido relacionado con el mercado para ese <em>buyer</em> persona?
 
     Separador 
 
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Características de los <em>buyer</em> persona
 
-    p.mb-5 Mientras que el buyer persona es la representación del cliente ideal, también existe aquel personaje negativo que representa a alguien que la marca no quiere que sea el cliente. 
+    p.mb-5 Mientras que el <em>buyer</em> persona es la representación del cliente ideal, también existe aquel personaje negativo que representa a alguien que la marca no quiere que sea el cliente. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
@@ -655,7 +654,7 @@
           .row.justify-content-center.align-items-center 
             .col-md-8.mb-3
               p Esto puede requerir de profesionales avanzados para el producto, así como alumnos que consumen la información con el único fin de aprender, e incluso, aquellos clientes potenciales que poseen un costo de adquisición muy alto (bien sea por el precio, la posibilidad de que dejen de usar el producto o de que no ser clientes frecuentes).
-              p Existen muchos tipos de <em>buyer</em> persona, los cuales se pueden catalogar en tres categorías principales, especialmente perceptibles hacia el final del proceso de la toma de decisiones. Aunque el buyer persona no siempre es la persona que se encarga de tomar la decisión de compra del producto, sí juega un papel vital motivándolo.
+              p Existen muchos tipos de <em>buyer</em> persona, los cuales se pueden catalogar en tres categorías principales, especialmente perceptibles hacia el final del proceso de la toma de decisiones. Aunque el <em>buyer</em> persona no siempre es la persona que se encarga de tomar la decisión de compra del producto, sí juega un papel vital motivándolo.
 
             .col-md-4
               figure
@@ -669,15 +668,19 @@
       .col-10
         TabsA.color-acento-botones.mb-5
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="<em>Buyer</em> persona decisor")
+            h3 <em>Buyer</em> persona decisor
             p Persona que toma la decisión final en la adquisición de un producto.
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="<em>Buyer</em> persona prescriptor")
+            h3 <em>Buyer</em> persona prescriptor
             p Persona que recomienda adquirir un producto. Por lo general, tiene alguna capacidad de motivar o influir en la compra.
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="<em>Buyer</em> persona influenciador")
+            h3 <em>Buyer</em> persona influenciador
             p Persona que tiene una opinión, bien sea positiva o negativa, y que influye directamente en la acción de compra. Es vital saber quién es este tipo de buyer persona, porque ayuda a decidir con quiénes se pueden enfocar los esfuerzos a la hora de ofrecer el producto al interior de una empresa
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="<em>Buyer</em> persona negativo")
+            h3 <em>Buyer</em> persona negativo
             p Es el cuarto tipo de buyer persona y representa a aquellas personas que no tienen ninguna intención de comprar o usar el producto, pero que podrían demostrar algún interés en las campañas y acciones de mercadeo.
 
     Separador 
@@ -707,7 +710,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-55.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La vía para convertir prospectos en clientes puede comenzar en el momento en el que un navegante llega al sitio web y hace un registro de algo; en este momento la marca ha capturado un lead. Una vez se tengan más datos de esta persona y se sabe que cumple con ciertos parámetros de compra, pasa a estar ubicado en la lista de clientes potenciales calificados. 
+            p.mb-0 La vía para convertir prospectos en clientes puede comenzar en el momento en el que un navegante llega al sitio <em>web</em> y hace un registro de algo; en este momento la marca ha capturado un <em>lead.</em> Una vez se tengan más datos de esta persona y se sabe que cumple con ciertos parámetros de compra, pasa a estar ubicado en la lista de clientes potenciales calificados. 
 
         p.mb-5 Es el momento en el que el equipo de ventas intercede; mientras que los vendedores trabajan para crear oportunidades logrando convertir prospectos en clientes generadores de ganancias. Las etapas pueden quedar de la siguiente manera:
 
@@ -794,7 +797,7 @@ export default {
       {
         titulo: 'Prospectos sospechosos',
         texto:
-          'Cuando muestran interés en la marca de una manera poco obvia, como la visita al <em>sitio web,</em> y no se contactan para requerir un demo o una cotización online.',
+          'Cuando muestran interés en la marca de una manera poco obvia, como la visita al <em>sitio web,</em> y no se contactan para requerir un demo o una cotización <em>online.</em>',
         imagen: require('@/assets/curso/temas/tema3/img-62.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -14,14 +14,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor</em>
         figure
           img.mb-3(src='@/assets/curso/temas/tema2/img-32-1.svg', alt='En la figura 3 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.')
 
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor</em>
         figure
           img(src='@/assets/curso/temas/tema2/img-32-2.svg', alt='En la figura 3 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.') 
 
@@ -45,7 +45,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/decorador-2.svg', alt='Texto que describa la imagen')
                   
-            p(style="color:#000") El mapa de valor, propuesta que especifica cómo pretende crear valor para ese segmento.
+            p(style="color:#000") El mapa de valor, propuesta que específica cómo pretende crear valor para ese segmento.
 
           .col-md.tarjeta.color-acento-contenido.p-4(style="background-color:#E4FDFB")
             .row.justify-content-center.mb-4
@@ -86,17 +86,17 @@
               ul.lista-ul.mb-3
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | <strong>Productos y servicios.</strong> Donde se listan los que edifican su propuesta de valor.
+                  | <strong>Productos y servicios:</strong> donde se listan los que edifican su propuesta de valor.
 
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | <strong>Aliviadores de frustraciones.</strong> Se describen cómo los productos alivian los dolores de los clientes. Se representa con el pictograma de una píldora que alivia.
+                  | <strong>Aliviadores de frustraciones:</strong> se describen cómo los productos alivian los dolores de los clientes. Se representa con el pictograma de una píldora que alivia.
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | <strong>Creadores de alegría.</strong> Se describe cómo los productos crean ganancias para los clientes. 
+                  | <strong>Creadores de alegría:</strong> se describe cómo los productos crean ganancias para los clientes. 
                 li.mb-0
                   i.fas.fa-circle(style="color:#33ECE0")
-                  | <strong>El encaje.</strong> Punto donde enlazan el segmento de mercado y la propuesta de valor. Sucede cuando se solucionan tareas significativas, calma frustraciones extremas y genera alegrías (ganancias) fundamentales para los clientes.
+                  | <strong>El encaje:</strong> punto donde enlazan el segmento de mercado y la propuesta de valor. Sucede cuando se solucionan tareas significativas, calma frustraciones extremas y genera alegrías (ganancias) fundamentales para los clientes.
                 
     Separador 
 
@@ -124,7 +124,7 @@
       h2 2.2  Modelo Canvas
 
     p Para Vaciero y Hernández (2018) es una herramienta de gestión estratégica que permite conocer los aspectos clave de una marca: cómo se relacionan y ayudan entre sí. Hace notoria la infraestructura, los clientes, la oferta y la situación financiera de la empresa para el reconocimiento de las deficiencias y el análisis del rendimiento. 
-    p.mb-5 Es un modelo visual con el que se puede organizar las ideas en el momento de crear un modelo de negocio; e s ideal para establecer y diseñar modelos vanguardistas con el fin de crear valor para los clientes. Fue inventado por el consultor de negocios Alexander Osterwalder y el docente de sistemas de información y gestión Yves Pigneur. Su trabajo definió nueve categorías del modelo de negocio, las cuales encarnan los componentes básicos de una marca.
+    p.mb-5 Es un modelo visual con el que se puede organizar las ideas en el momento de crear un modelo de negocio; es ideal para establecer y diseñar modelos vanguardistas con el fin de crear valor para los clientes. Fue inventado por el consultor de negocios Alexander Osterwalder y el docente de sistemas de información y gestión Yves Pigneur. Su trabajo definió nueve categorías del modelo de negocio, las cuales encarnan los componentes básicos de una marca.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
@@ -149,15 +149,19 @@
       .col-10
         TabsA.color-acento-botones.mb-5
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Permitir identificar lo esencial")
+            h3 Permitir identificar lo esencial
             p Se tiene una visión general de cuál es de verdad el modelo de negocio. Muestra qué actividades no son tan importantes, e incluso cuáles se intercalan en el camino hacia los objetivos. Lleva la visión hacia lo principal y de esta forma se puede mejorar el modelo de negocio.
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Dar la base para la lluvia de ideas")
+            h3 Dar la base para la lluvia de ideas
             p El modelo Canvas es el punto de partida ideal para permitir que las ideas y las del equipo nazcan libremente. También se puede ensayar con modelos alternos que complementen la idea de negocio y encuentren nuevas opciones de promoción.
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="Brindar una presentación estructurada")
+            h3 Brindar una presentación estructurada
             p El modelo Canvas muestra en términos generales y visuales el negocio, de una manera más estructurada y clara. Así, otros podrán comprender y discutir ágilmente el modelo de negocio y todas las áreas del proyecto recogerán rápidamente la información que es importante para ellos y para la marca.
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="Sentar la base de tus planes de negocios")
+            h3 Sentar la base de tus planes de negocios
             p El modelo Canvas no reemplaza un plan de negocio detallado, pero con él se obtiene una organización que funciona como el esqueleto del plan de negocios. 
 
     .row.align-items-center.mb-4
@@ -298,9 +302,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Identificación de unidades estratégicas de negocio")
+          .row(numero="1" titulo="Identificación de UEN")
             .col-md-12.mb-4.mb-md-0
-              p.text-small  Para iniciar con la planificación de un portafolio se requiere identificar varias Unidades Estratégicas de Negocio (UEN). Las siguientes son las principales características de las unidades de negocio:
+              p Para iniciar con la planificación de un portafolio se requiere identificar varias Unidades Estratégicas de Negocio (UEN). Las siguientes son las principales características de las unidades de negocio:
 
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -329,8 +333,8 @@
 
           .row(numero="2" titulo="Conocimiento del mercado")
             .col-md-12.mb-4.mb-md-0
-              p.text-small El conocimiento del nicho de mercado facilita la planificación del portafolio de negocio, porque permite hallar opciones rentables y de mejor crecimiento. 
-              p.text-small Estos son algunos elementos que se deben tener en cuenta al examinar el mercado:
+              p El conocimiento del nicho de mercado facilita la planificación del portafolio de negocio, porque permite hallar opciones rentables y de mejor crecimiento. 
+              p Estos son algunos elementos que se deben tener en cuenta al examinar el mercado:
 
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -360,9 +364,9 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img-14.png', alt='Texto que describa la imagen')
 
-          .row(numero="3" titulo="Evaluación de la fuerza competitiva de la unidad de negocio en el mercado objetivo")
+          .row(numero="3" titulo="Evaluación de la fuerza competitiva")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Toda unidad de negocio posee su propia competencia, por lo que se deben analizar independientemente. Entender quién es la competencia (fortalezas y debilidades) puede permitir a la marca instaurar objetivos comerciales. Al hacer una evaluación sobre la fuerza competitiva se pueden identificar:
+              p Toda unidad de negocio posee su propia competencia, por lo que se deben analizar independientemente. Entender quién es la competencia (fortalezas y debilidades) puede permitir a la marca instaurar objetivos comerciales. Al hacer una evaluación sobre la fuerza competitiva se pueden identificar:
 
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -416,8 +420,8 @@
               figure(data-aos="fade-right")
                 img(src='@/assets/curso/temas/tema2/decorador-5.svg', alt='Texto que describa la imagen')
             .col-lg-9
-              p La introducción de productos digitales, por ejemplo, puede verse favorecida por algunas herramientas, como por ejemplo redes sociales, sitio web, blogs, foros, chats, etc., que de manera económica, creativa y recursiva ayudan a las pymes para lograr posicionar no solo la marca, sino los productos. Además, se entiende que el uso de estrategias acciones de mercadeo digital ayudan a que el producto sea exitoso en poco tiempo.
-              p En la etapa de introducción, se debe haber desarrollado el mapeo del buyer persona de la marca. Esa información ayuda a comprender la necesidad real del cliente, mejorando la precisión de las acciones estratégicas, así como la optimización en el alcance territorial del producto.
+              p La introducción de productos digitales, por ejemplo, puede verse favorecida por algunas herramientas, como por ejemplo redes sociales, <em>sitio web, blogs,</em> foros, <em>chats,</em> etc., que de manera económica, creativa y recursiva ayudan a las pymes para lograr posicionar no solo la marca, sino los productos. Además, se entiende que el uso de estrategias acciones de mercadeo digital ayudan a que el producto sea exitoso en poco tiempo.
+              p En la etapa de introducción, se debe haber desarrollado el mapeo del <em>buyer</em> persona de la marca. Esa información ayuda a comprender la necesidad real del cliente, mejorando la precisión de las acciones estratégicas, así como la optimización en el alcance territorial del producto.
         
         p.mb-4 Por su lado, en las etapas de crecimiento y madurez, un elemento para tener en cuenta es la analítica (métricas). El uso de los indicadores correctos será de gran utilidad para el producto digital. A continuación, algunas métricas importantes: 
 
@@ -442,10 +446,13 @@
             
             .row
               .col-lg-12
-                .bloque-texto-c.color-primario.p-4
-                  i.fas.fa-quote-right
-                  h3.mb-2 Con estas métricas se pueden identificar lo bueno y lo malo en la actuación y alineación del producto digital con relación a las solicitudes del cliente, de tal forma que se puedan usar estos datos para realizar las mejoras correspondientes.
-                  span - González, 2017
+                .bloque-texto-d.color-primario.p-4(style="background-color:")
+                  .bloque-texto-d__texto.mb-2
+                    i.fas.fa-quote-left
+                    h3.text-regular.mb-2 Con estas métricas se pueden identificar lo bueno y lo malo en la actuación y alineación del producto digital con relación a las solicitudes del cliente, de tal forma que se puedan usar estos datos para realizar las mejoras correspondientes.
+                    i.fas.fa-quote-right
+                  .bloque-texto-d__autor 
+                    .h5.mb-0 - González, 2017
 
           .col-md-4
             figure
@@ -519,8 +526,8 @@
 
     p.mb-5 Además de las diferentes características propias de la clasificación de las marcas, también existen marcas que se ajustan según el rol que desarrollan o la relación que tienen con otras marcas; en el siguiente recurso se destacan elementos propios de este tipo de marcas: 
 
-    TabsB.color-acento-botones.mb-5
-      .py-4.py-md-5(titulo="Marca madre o marca paraguas " :icono="require('@/assets/curso/temas/tema2/decorador-6.svg')")
+    TabsB.color-acento-botones.mb-5(style="background-color:#F7F2F2")
+      .p-4.py-4.py-md-5(titulo="Marca madre o marca paraguas " :icono="require('@/assets/curso/temas/tema2/decorador-6.svg')")
         .row
           .col-md-12
             ul.lista-ul.mb-3
@@ -528,7 +535,7 @@
                 i.fas.fa-circle(style="color:#33ECE0")
                 | Componen el punto de referencia de la oferta, abrigando al producto y representan familias que ya poseen una identidad específica.
 
-      .py-4.py-md-5(titulo="Submarca" :icono="require('@/assets/curso/temas/tema2/decorador-7.svg')")
+      .p-4.py-4.py-md-5(titulo="Submarca" :icono="require('@/assets/curso/temas/tema2/decorador-7.svg')")
         .row
           .col-md-12
             ul.lista-ul.mb-3
@@ -536,7 +543,7 @@
                 i.fas.fa-circle(style="color:#33ECE0")
                 | Delimita una oferta diferente modificando la asociación de la marca madre en contextos específicos.
 
-      .py-4.py-md-5(titulo="Marca respaldadora" :icono="require('@/assets/curso/temas/tema2/decorador-8.svg')")
+      .p-4.py-4.py-md-5(titulo="Marca respaldadora" :icono="require('@/assets/curso/temas/tema2/decorador-8.svg')")
         .row
           .col-md-12
             ul.lista-ul.mb-3
@@ -544,7 +551,7 @@
                 i.fas.fa-circle(style="color:#33ECE0")
                 | Marca establecida, con prestigio y reconocimiento que otorga credibilidad y confianza a sus productos.
 
-      .py-4.py-md-5(titulo="Marca respaldada" :icono="require('@/assets/curso/temas/tema2/decorador-9.svg')")
+      .p-4.py-4.py-md-5(titulo="Marca respaldada" :icono="require('@/assets/curso/temas/tema2/decorador-9.svg')")
         .row
           .col-md-12
             ul.lista-ul.mb-3
@@ -552,7 +559,7 @@
                 i.fas.fa-circle(style="color:#33ECE0")
                 | Marca establecida que respalda, ampara y cubre a submarcas y/o productos.
 
-      .py-4.py-md-5(titulo="Marca de beneficio" :icono="require('@/assets/curso/temas/tema2/decorador-10.svg')")
+      .p-4.py-4.py-md-5(titulo="Marca de beneficio" :icono="require('@/assets/curso/temas/tema2/decorador-10.svg')")
         .row
           .col-md-12
             ul.lista-ul.mb-3
@@ -663,7 +670,7 @@
           p Es el conjunto de procesos estratégicos que componen la arquitectura de marca, y su principal objetivo es generar capital de marca. Radica en transmitir a los productos el poder de su marca, principalmente a través de la generación de elementos que los diferencien de otros productos. 
           p Genera estructuras mentales y ayuda a que los clientes ordenen sus conocimientos sobre los productos de manera que su toma de decisiones sea más simple, y en el proceso se forje valor para la empresa. 
 
-    p.mb-5 Si se desea que las estrategias de branding generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
+    p.mb-5 Si se desea que las estrategias de <em>branding</em> generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
     
     .tarjeta.tarjeta.p-4.mb-5.mt-0(style="background-color:#FFFBE5")(data-aos="flip-up")
       .row.justify-content-center.align-items-center 
@@ -839,7 +846,7 @@ export default {
       {
         titulo: 'Aprender de la competencia',
         texto:
-          'Se debe elegir varios competidores para analizar sus modelos de negocio. Con esta información se puede tener una visión real de lo que los clientes desean y lo que están dispuestos a pagar. Generar preguntas como: ¿Cuáles empresas son la competencia? ¿Tienen presencia web? ¿Cuáles son las más populares? ¿Cuáles son los más parecidos a la propuesta de valor? ¿Cuál es el precio de sus productos? ¿Cómo los fidelizan? ',
+          'Se debe elegir varios competidores para analizar sus modelos de negocio. Con esta información se puede tener una visión real de lo que los clientes desean y lo que están dispuestos a pagar. Generar preguntas como: ¿Cuáles empresas son la competencia? ¿Tienen presencia <em>web</em>? ¿Cuáles son las más populares? ¿Cuáles son los más parecidos a la propuesta de valor? ¿Cuál es el precio de sus productos? ¿Cómo los fidelizan? ',
         imagen: require('@/assets/curso/temas/tema2/img-1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
