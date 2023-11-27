@@ -446,7 +446,7 @@
             
             .row
               .col-lg-12
-                .bloque-texto-d.color-primario.p-4(style="background-color:")
+                .bloque-texto-d.color-primario.p-4
                   .bloque-texto-d__texto.mb-2
                     i.fas.fa-quote-left
                     h3.text-regular.mb-2 Con estas métricas se pueden identificar lo bueno y lo malo en la actuación y alineación del producto digital con relación a las solicitudes del cliente, de tal forma que se puedan usar estos datos para realizar las mejoras correspondientes.
