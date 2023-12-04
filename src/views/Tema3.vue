@@ -18,7 +18,7 @@
                 img(src='@/assets/curso/temas/tema3/decorador-1.svg', alt='Texto que describa la imagen')
             .col-lg-9
               p Los segmentos son usados con una dirección global y estratégica, de tal forma que se puedan diseñar mapas de empatía más fácil y coherentemente. 
-              p El arquetipo, también conocido como “persona”, se refiere a la tipología de cliente a la que se dirige la marca. Se trata de humanizarlo (se le pone nombre y foto), de esta forma se empatiza con el cliente. En el arquetipo de cliente se debe incluir información como nombre, foto, aspectos socio demográficos o socioeconómicos, edad, ocupación, nivel educativo, profesión, motivaciones, objetivos, frustraciones y limitaciones y, sobre todo, si existe relación con el producto de la marca. Por su lado, los buyer persona son el cliente ideal al que la marca quiere dirigirse.  
+              p El arquetipo, también conocido como “persona”, se refiere a la tipología de cliente a la que se dirige la marca. Se trata de humanizarlo (se le pone nombre y foto), de esta forma se empatiza con el cliente. En el arquetipo de cliente se debe incluir información como nombre, foto, aspectos socio demográficos o socioeconómicos, edad, ocupación, nivel educativo, profesión, motivaciones, objetivos, frustraciones y limitaciones y, sobre todo, si existe relación con el producto de la marca. Por su lado, los <em>buyer</em> persona son el cliente ideal al que la marca quiere dirigirse.  
 
     Separador 
 
@@ -42,7 +42,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía.</em>
+              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía</em>
             figure
               img.mb-3(src='@/assets/curso/temas/tema3/img-2-1.svg', alt='En la figura 5 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?')
               figcaption Nota. Tomada y adaptada de https://rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
@@ -50,7 +50,7 @@
         .row.mt-5.mb-2
           .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía.</em>
+              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía</em>
             figure
               img(src='@/assets/curso/temas/tema3/img-2-2.svg', alt='En la figura 5 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?') 
               figcaption Nota. Tomada y adaptada de https://rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
@@ -407,7 +407,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-34.png', alt='Texto que describa la imagen')
           
-        h3(style="color:#000") Ejemplo de buyer persona
+        h3(style="color:#000") Ejemplo de <em>buyer</em> persona
         p(style="color:#000") Carlos tiene 26 años de edad, es profesional en arquitectura, está recién graduado y trabaja independientemente. Piensa estudiar una maestría en el exterior (le encanta viajar) para desarrollarse profesionalmente, siempre quiso obtener un intercambio, por eso busca una agencia que lo asesore para hallar universidades europeas que avalen estudiantes del exterior. No está casado.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -660,7 +660,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img-52.png', alt='Imagen decorativa')
 
-        p En la siguiente línea de tiempo se detallan cuatro de las principales características de este buyer persona.
+        p En la siguiente línea de tiempo se detallan cuatro de las principales características de este <em>buyer</em> persona.
 
     .row.mb-4 
       .col-2

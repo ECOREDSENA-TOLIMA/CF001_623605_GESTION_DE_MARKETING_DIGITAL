@@ -121,7 +121,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Flujo
-            p Tiene que ver con la multiplataforma o transversalidad. El cliente debe sentirse atraído por la interactividad generada en el sitio web de tal manera que le llame y se interese por la marca y sus productos. Actualmente, los sitios web buscan ser lo más precisos posibles para exponer y ordenar los botones de búsqueda (por lo general en la página de Inicio) para que los clientes encuentren fácilmente lo que desean (un producto, un servicio, una ciudad destino, etc.). 
+            p Tiene que ver con la multiplataforma o transversalidad. El cliente debe sentirse atraído por la interactividad generada en el sitio <em>web</em> de tal manera que le llame y se interese por la marca y sus productos. Actualmente, los sitios web buscan ser lo más precisos posibles para exponer y ordenar los botones de búsqueda (por lo general en la página de Inicio) para que los clientes encuentren fácilmente lo que desean (un producto, un servicio, una ciudad destino, etc.). 
 
           .col-md-6.col-ipad
             figure
@@ -130,7 +130,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Funcionalidad
-            p La navegación en el sitio web tiene que ser fácil e intuitiva, de lo contrario, el cliente termina abandonándolo.
+            p La navegación en el sitio <em>web</em> tiene que ser fácil e intuitiva, de lo contrario, el cliente termina abandonándolo.
 
           .col-md-6.col-ipad
             figure
@@ -138,7 +138,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
-            h3 Feedback
+            h3 <em>Feedback</em>
             p La interacción con los clientes es vital para construir una excelente relación con ellos. La reputación lograda es clave para conseguir confianza y una comunicación bidireccional. Se recomienda ser humildes, humanos, transparentes y sinceros. Para lograr el <em>feedback</em> se puede dar oportunidad a los clientes de dejar comentarios, iniciar un <em>chat online</em> de asesoría, o aceptar una suscripción para recibir el envío de boletines u ofertas por <em>e-mail.</em>
 
           .col-md-6.col-ipad
@@ -320,7 +320,7 @@
                         | Satisfacción de necesidades y deseos de los clientes a través del sitio <em>web.</em>
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | Comportamiento digital de los usuarios y otras webs que transitan. 
+                        | Comportamiento digital de los usuarios y otras web que transitan. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Productos o servicios que son buscados o comprados por el público objetivo. 
@@ -599,7 +599,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/decorador-16.svg', alt='Texto que describa la imagen')
               
-            p.text-center El plan de mercadeo es la herramienta principal para administrar y coordinar el esfuerzo de marketing; el cual opera en dos niveles: estratégico y táctico. 
+            p.text-center El plan de mercadeo es la herramienta principal para administrar y coordinar el esfuerzo de <em>marketing;</em> el cual opera en dos niveles: estratégico y táctico. 
 
           .col-md.tarjeta.color-acento-botones.p-4(style="background-color:#FFFBE5")
             .row.justify-content-center.mb-4

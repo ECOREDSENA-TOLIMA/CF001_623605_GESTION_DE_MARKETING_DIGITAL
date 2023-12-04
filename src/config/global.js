@@ -175,14 +175,14 @@ export default {
     {
       tema: 'Mercadeo',
       referencia:
-        'Marketing Digital Castro. (2022). ¿Qué es el mercadeo? Definición de marketing. [Video]. YouTube.',
+        '<em>Marketing</em> Digital Castro. (2022). ¿Qué es el mercadeo? Definición de <em>marketing.</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=I84B6EIE-1A',
     },
     {
-      tema: 'Marketing en entornos digitales',
+      tema: '<em>Marketing</em> en entornos digitales',
       referencia:
-        'Cardona, L. (2021). ¿Qué es marketing digital? Introducción, tipos y canales. [Video]. YouTube',
+        'Cardona, L. (2021). ¿Qué es <em>marketing</em> digital? Introducción, tipos y canales. [Video]. YouTube',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nACJLWCmzk8',
     },
@@ -203,7 +203,7 @@ export default {
     {
       tema: 'Concepto de <em>buyer</em> persona',
       referencia:
-        'Tomás, D. (2018). Buyer persona - Qué es y Cómo hacerlo. [Video].',
+        'Tomás, D. (2018). <em>Buyer</em> persona - Qué es y Cómo hacerlo. [Video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qkfB_p0DXO4f',
     },
@@ -262,7 +262,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Beltrán, M., Ledesma, J., & Parrales, V. (2019). El buyer persona como factor clave entre las tendencias en gestión empresarial. Revista Científica de la Investigación y el Conocimiento, 659-681.',
+        'Beltrán, M., Ledesma, J., & Parrales, V. (2019). El <em>buyer</em> persona como factor clave entre las tendencias en gestión empresarial. Revista Científica de la Investigación y el Conocimiento, 659-681.',
     },
     {
       referencia:
@@ -274,16 +274,16 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., y Keller, K. (2012). Dirección de marketing. Pearson Education.',
+        'Kotler, P., y Keller, K. (2012). Dirección de <em>marketing.</em> Pearson Education.',
     },
     {
-      referencia: 'Rivelli, H. (2019). Marketing digital.',
+      referencia: 'Rivelli, H. (2019). <em>Marketing</em> digital.',
       link:
         'https://docplayer.es/63117451-Marketing-digital-helena-belen-rivelli.html',
     },
     {
       referencia:
-        'Rodríguez, I., Montes, G., y López, Ó. y. (2006). Principios y estrategias de marketing. Editorial UOC.',
+        'Rodríguez, I., Montes, G., y López, Ó. y. (2006). Principios y estrategias de <em>marketing.</em> Editorial UOC.',
     },
     {
       referencia:
@@ -291,7 +291,7 @@ export default {
     },
     {
       referencia:
-        'Xie, S., y Min, Y. (2019). Marketing digital: navegando en aguas digitales. sumérgete conmigo. Ediciones de la U',
+        'Xie, S., y Min, Y. (2019). <em>Marketing</em> digital: navegando en aguas digitales. sumérgete conmigo. Ediciones de la U',
     },
   ],
   creditos: [
