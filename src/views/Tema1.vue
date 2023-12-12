@@ -121,7 +121,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-ipad
             h3 Flujo
-            p Tiene que ver con la multiplataforma o transversalidad. El cliente debe sentirse atraído por la interactividad generada en el sitio <em>web</em> de tal manera que le llame y se interese por la marca y sus productos. Actualmente, los sitios web buscan ser lo más precisos posibles para exponer y ordenar los botones de búsqueda (por lo general en la página de Inicio) para que los clientes encuentren fácilmente lo que desean (un producto, un servicio, una ciudad destino, etc.). 
+            p Tiene que ver con la multiplataforma o transversalidad. El cliente debe sentirse atraído por la interactividad generada en el sitio <em>web</em> de tal manera que le llame y se interese por la marca y sus productos. Actualmente, los sitios <em>web</em> buscan ser lo más precisos posibles para exponer y ordenar los botones de búsqueda (por lo general en la página de Inicio) para que los clientes encuentren fácilmente lo que desean (un producto, un servicio, una ciudad destino, etc.). 
 
           .col-md-6.col-ipad
             figure
@@ -217,7 +217,7 @@
         .p-2
           h3.mb-0.ms-3 Etapas del plan de <em>marketing online</em>
 
-    p Una vez establecido el plan de mercadeo tradicional, se ponen en marcha actividades que se pueden desarrollar desde internet. Inicialmente, tener presencia en la <em>web</em> es relativamente fácil, analizado desde lo técnico y lo económico. En segunda instancia, ser efectivo con la estrategia de mercadeo digital es más complejo, puesto que el simple hecho de crear una web no es suficiente para lograr visibilidad; se requiere de planear una estrategia, con objetivos delimitados de manera perfecta y con herramientas y vías para hacerlos realidad. 
+    p Una vez establecido el plan de mercadeo tradicional, se ponen en marcha actividades que se pueden desarrollar desde internet. Inicialmente, tener presencia en la <em>web</em> es relativamente fácil, analizado desde lo técnico y lo económico. En segunda instancia, ser efectivo con la estrategia de mercadeo digital es más complejo, puesto que el simple hecho de crear una <em>web</em> no es suficiente para lograr visibilidad; se requiere de planear una estrategia, con objetivos delimitados de manera perfecta y con herramientas y vías para hacerlos realidad. 
     p.mb-5 Se desarrollan a continuación las etapas del plan de mercadeo digital.
 
     .row.justify-content-center.align-items-center.mb-3
@@ -320,7 +320,7 @@
                         | Satisfacción de necesidades y deseos de los clientes a través del sitio <em>web.</em>
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
-                        | Comportamiento digital de los usuarios y otras web que transitan. 
+                        | Comportamiento digital de los usuarios y otras <em>web</em> que transitan. 
                       li.mb-0
                         i.fas.fa-circle(style="color:#33ECE0")
                         | Productos o servicios que son buscados o comprados por el público objetivo. 

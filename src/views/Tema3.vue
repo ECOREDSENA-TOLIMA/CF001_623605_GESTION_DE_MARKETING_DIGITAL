@@ -407,7 +407,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-34.png', alt='Texto que describa la imagen')
           
-        h3(style="color:#000") Ejemplo de <em>buyer</em> persona
+        h3(style="color:#000") Ejemplo de <i style="color:#000">buyer</i> persona
         p(style="color:#000") Carlos tiene 26 años de edad, es profesional en arquitectura, está recién graduado y trabaja independientemente. Piensa estudiar una maestría en el exterior (le encanta viajar) para desarrollarse profesionalmente, siempre quiso obtener un intercambio, por eso busca una agencia que lo asesore para hallar universidades europeas que avalen estudiantes del exterior. No está casado.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -681,7 +681,7 @@
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="<em>Buyer</em> persona negativo")
             h3 <em>Buyer</em> persona negativo
-            p Es el cuarto tipo de buyer persona y representa a aquellas personas que no tienen ninguna intención de comprar o usar el producto, pero que podrían demostrar algún interés en las campañas y acciones de mercadeo.
+            p Es el cuarto tipo de <em>buyer</em> persona y representa a aquellas personas que no tienen ninguna intención de comprar o usar el producto, pero que podrían demostrar algún interés en las campañas y acciones de mercadeo.
 
     Separador 
 
