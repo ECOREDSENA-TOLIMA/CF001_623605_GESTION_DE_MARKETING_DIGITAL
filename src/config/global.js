@@ -314,9 +314,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Andrea Carolina Vargas Serrato',
+          nombre: 'Samuel Pinilla Hurtado',
           cargo: 'Experto Temático',
-          centro: 'Regional Tolima - Centro de Industria y la Información',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Adriana López',
@@ -324,13 +324,8 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
-          nombre: 'Leydy Jhuliana Jaramillo Mejía',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Asesora Metodológica y Pedagógica',
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Asesora Metodológica',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
@@ -338,6 +333,11 @@ export default {
           cargo: 'Responsable Equipo de Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
@@ -360,7 +360,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera Roldán',
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Diseñador web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
