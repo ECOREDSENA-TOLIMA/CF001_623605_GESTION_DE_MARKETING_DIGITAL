@@ -155,6 +155,11 @@ export default {
         titulo: 'Material complementario',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_01_623605.zip',
+      },
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
