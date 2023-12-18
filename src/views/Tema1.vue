@@ -340,12 +340,12 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-10.col-md-10.col-lg-10.desktop
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-19-1.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/img-19-1.svg', alt='La figura presenta una secuencia de preguntas esenciales para llevar a cabo un análisis destinado a la definición de los objetivos del plan de mercadeo.')
 
               .row.mt-2.mb-3
                 .col-10.col-md-10.col-lg-12.movil
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-19-2.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/img-19-2.svg', alt='La figura presenta una secuencia de preguntas esenciales para llevar a cabo un análisis destinado a la definición de los objetivos del plan de mercadeo.')
 
               p En el plan de mercadeo digital se deben establecer los objetivos cuantitativos y cualitativos que va a perseguir la marca con la creación del sitio <em>web.</em> Así, cada marca podrá elegir los objetivos más convenientes, con el fin de lograr la rentabilidad esperada en la planeación estratégica. 
               p Estos objetivos dependen de las características del producto ofrecido en la <em>web</em> y, se pueden basar en: 

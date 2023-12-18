@@ -109,12 +109,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-2-1.svg', alt='')
+          img.mb-3(src='@/assets/curso/temas/tema2/img-2-1.svg', alt='En la figura se presentan los cinco aprendizajes clave del lienzo del modelo de negocios, que incluyen la comprensión de los beneficios generados por el negocio, la función de la marca, entre otros aspectos.')
           
     .row.mt-5.mb-4
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/img-2-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema2/img-2-2.svg', alt='En la figura se presentan los cinco aprendizajes clave del lienzo del modelo de negocios, que incluyen la comprensión de los beneficios generados por el negocio, la función de la marca, entre otros aspectos.') 
     
     p.mb-5 El modelo de negocio es el pedestal y la síntesis de toda estrategia que se aplique en las estructuras, procesos y sistemas de una marca (Clark y Osterwalder, 2017)
 
@@ -129,12 +129,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         figure
-          img.mb-0(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='')
+          img.mb-0(src='@/assets/curso/temas/tema2/img-3-1.svg', alt='En la figura se presentan el modelo Canvas, que es una herramienta visual que representa los elementos fundamentales de un modelo de negocios, parte de la propuesta de valor e incluye la estructura de costos entre otros.')
           
     .row.mt-5.mb-4
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/img-3-2.svg', alt='') 
+          img(src='@/assets/curso/temas/tema2/img-3-2.svg', alt='En la figura se presentan el modelo Canvas, que es una herramienta visual que representa los elementos fundamentales de un modelo de negocios, parte de la propuesta de valor e incluye la estructura de costos entre otros.') 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="fade-down-right")
