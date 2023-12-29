@@ -7,9 +7,9 @@
         span 2
       h1 La propuesta de valor de la organización
     
-    p Según González (2017), la satisfacción a una necesidad es un denominador común de las empresas. Por eso, es vital describir y formular correctamente la necesidad o problema a satisfacer. Y, especialmente, cuando se transmite al consumidor el valor que ofrece la marca, este analiza, aunque sea inconscientemente, dos cosas: beneficios y precio.
+    p Según González (2017), la satisfacción a una necesidad es un denominador común de las empresas. Por eso, es vital describir y formular correctamente la necesidad o problema a satisfacer. Y especialmente, cuando se transmite al consumidor el valor que ofrece la marca, este analiza, aunque sea inconscientemente, dos cosas: beneficios y precio.
     p Si los beneficios son más importantes que el precio, el consumidor pensará que el producto vale la pena, porque proyecta valor. Si sucede lo contrario, no comprará, porque no localiza valor en el producto. Por eso, la clave del éxito de las empresas radica en solucionar un problema; los clientes lo comprenden de esta forma valorando el resultado que les suministra esa solución y la eligen por encima de cualquier otra que tenga la competencia. 
-    p.mb-5 Para establecer la mejor propuesta de valor, es importante identificar los factores que se incluyen para la consolidación de esta; a continuación, se definen aspectos relevantes relacionados con este concepto.  
+    p.mb-5 Para establecer la mejor propuesta de valor es importante identificar los factores que se incluyen para la consolidación de esta; a continuación, se definen aspectos relevantes relacionados con este concepto.  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
@@ -123,7 +123,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2  Modelo Canvas
 
-    p Para Vaciero y Hernández (2018) es una herramienta de gestión estratégica que permite conocer los aspectos clave de una marca: cómo se relacionan y ayudan entre sí. Hace notoria la infraestructura, los clientes, la oferta y la situación financiera de la empresa para el reconocimiento de las deficiencias y el análisis del rendimiento. 
+    p Para Vaciero y Hernández (2018), es una herramienta de gestión estratégica que permite conocer los aspectos clave de una marca: cómo se relacionan y ayudan entre sí. Hace notoria la infraestructura, los clientes, la oferta y la situación financiera de la empresa para el reconocimiento de las deficiencias y el análisis del rendimiento. 
     p.mb-5 Es un modelo visual con el que se puede organizar las ideas en el momento de crear un modelo de negocio; es ideal para establecer y diseñar modelos vanguardistas con el fin de crear valor para los clientes. Fue inventado por el consultor de negocios Alexander Osterwalder y el docente de sistemas de información y gestión Yves Pigneur. Su trabajo definió nueve categorías del modelo de negocio, las cuales encarnan los componentes básicos de una marca.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -191,7 +191,7 @@
     .BGIMG01.p-4.mb-5
       SlyderB.mb-5(:datos="datosSlyder")
 
-    p.mb-5 Una vez terminados estos pasos, se debe tomar una foto del Canvas para compartir y estudiar fácilmente la referencia, y generar una discusión sobre el modelo de negocio con otros integrantes de la empresa. Y, finalmente, motivar a los miembros del equipo a encontrar opciones de mejora (Vaciero y Hernández, 2018)
+    p.mb-5 Una vez terminados estos pasos, se debe tomar una foto del Canvas para compartir y estudiar fácilmente la referencia, y generar una discusión sobre el modelo de negocio con otros integrantes de la empresa. Y, finalmente, motivar a los miembros del equipo a encontrar opciones de mejora (Vaciero y Hernández, 2018).
 
     Separador 
 
@@ -209,7 +209,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En la gerencia, poder observar estas unidades de manera individual facilita tomar decisiones estratégicas para el resto del portafolio. De igual forma, cada unidad se puede entender como un activo. El portafolio permite valorar la factibilidad de continuar, o no, con algún otro producto, así como proponer el monto de las inversiones.
 
-        p.mb-5 La matriz BCG, fue creada en Estados Unidos por el Boston Consulting Group, también llamada Matriz de Portafolio Corporativo; se usa, generalmente, con la finalidad de perfeccionar la asignación de recursos a todos los productos de la marca, hace una división de los productos en cuatro cuadrantes que se delimitan de acuerdo con el porcentaje de crecimiento y participación respectiva en el mercado como se presenta a continuación:
+        p.mb-5 La matriz BCG, fue creada en Estados Unidos por el <em>Boston Consulting Group,</em> también llamada Matriz de Portafolio Corporativo; se usa, generalmente, con la finalidad de perfeccionar la asignación de recursos a todos los productos de la marca, hace una división de los productos en cuatro cuadrantes que se delimitan de acuerdo con el porcentaje de crecimiento y participación respectiva en el mercado como se presenta a continuación:
 
         ImagenInfografica.color-acento-botones.mb-5.desktop
           template(v-slot:imagen)
@@ -218,7 +218,7 @@
 
           .tarjeta.color-acento-botones.p-3(x="37%" y="35%" numero="+")(style="background-color:#FFEEEE")
             p <b>Productos estrella</b> 
-            p Aquellos que están en crecimiento continuo y tiene una alta participación en el mercado; requieren de una elevada inversión.
+            p Aquellos que están en crecimiento continuo y tienen una alta participación en el mercado; requieren de una elevada inversión.
 
           .tarjeta.color-acento-botones.p-3(x="71.5%" y="35%" numero="+")(style="background-color:#FFEEEE")
             p <b>Productos Incógnita o interrogación</b>
@@ -230,7 +230,7 @@
           
           .tarjeta.color-acento-botones.p-3(x="72%" y="71.5%" numero="+")(style="background-color:#FFEEEE")
             p <b>Productos perro</b>
-            p Poca participación en el mercado porque no tienen crecimiento. Usualmente son productos que llegaron al final del ciclo de vida. Se debe tomar la decisión de retirarlos del mercado o de inyectarles algún cambio estratégico (nuevo empaque, distintivo visual, sabor, olor, tecnología, etc.).
+            p Poca participación en el mercado porque no tienen crecimiento. Usualmente, son productos que llegaron al final del ciclo de vida. Se debe tomar la decisión de retirarlos del mercado o de inyectarles algún cambio estratégico (nuevo empaque, distintivo visual, sabor, olor, tecnología, etc.).
 
         .row.mt-5.mb-3
           .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
@@ -395,7 +395,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.4  Ciclo de vida del producto digital
 
-    p El ciclo de vida de un producto es el proceso por el que pasa un producto durante su existencia. Generalmente está dividido en cuatro etapas: introducción, crecimiento, madurez y declive, etapas que está directamente ligadas con la matriz BCG (matriz de portafolio corporativo). Para los productos digitales, el ciclo de vida es exactamente la misma situación. Los especialistas en mercadeo usan los conocimientos sobre el ciclo de vida de un producto para la toma de decisiones y desarrollo de estrategias significativas para mantenerse en el mercado.
+    p El ciclo de vida de un producto es el proceso por el que pasa un producto durante su existencia. Generalmente, está dividido en cuatro etapas: introducción, crecimiento, madurez y declive, etapas que están directamente ligadas con la matriz BCG (matriz de portafolio corporativo). Para los productos digitales, el ciclo de vida es exactamente la misma situación. Los especialistas en mercadeo usan los conocimientos sobre el ciclo de vida de un producto para la toma de decisiones y desarrollo de estrategias significativas para mantenerse en el mercado.
     p.mb-5 El siguiente video detalla cada una de las fases del ciclo de vida de un producto digital y los elementos que las diferencian. 
 
     figure.mb-5
@@ -463,7 +463,7 @@
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5  La marca
     
-    p.mb-5 Como lo expresan Kotler y Keller (2012), la marca es uno de los factores estratégicos vitales de una compañía porque diariamente adquiere más protagonismo. Actualmente se vive una etapa bajo el prisma del mercadeo de percepciones y, por tanto, sobresale la marca frente al producto. 
+    p.mb-5 Como lo expresan Kotler y Keller (2012), la marca es uno de los factores estratégicos vitales de una compañía porque diariamente adquiere más protagonismo. Actualmente, se vive una etapa bajo el prisma del mercadeo de percepciones y, por tanto, sobresale la marca frente al producto. 
 
     .row.mb-5
       .col-md-4.mb-3
@@ -676,7 +676,7 @@
       .row.justify-content-center.align-items-center 
         .col-md-8.mb-3
           p Existen dos dimensiones del <em>branding:</em> de producto y corporativo. 
-          p En el <em>branding</em> de producto el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto. 
+          p En el <em>branding</em> de producto, el bien o servicio es sinónimo de la marca, permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto. 
           p El <em>branding</em> corporativo, es un conjunto de todas las experiencias, percepciones y encuentros que ha tenido un consumidor con una empresa; su intención es la generación de confianza en la empresa.
           
         .col-md-4

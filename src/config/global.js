@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'El <em>buyer</em> persona según el contexto empresarial',
+    componenteFormativo: 'El buyer persona según el contexto empresarial',
     descripcionCurso:
       'Es vital delimitar el <em>buyer</em> persona en la estrategia de mercadeo digital para tener más oportunidades de éxito. Cuanto más conozcamos al cliente ideal, mejor se puede relacionar una marca con él para atraerlo hacia la empresa y darle el mensaje adaptado a su perfil y es así como la marca se puede convertir en su referente. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -90,7 +89,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Mapas de empatía, arquetipos y <em>buyer</em> personal',
+        titulo: 'Mapas de empatía, arquetipos y <em>buyer</em> persona',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -296,7 +295,7 @@ export default {
     },
     {
       referencia:
-        'Xie, S., y Min, Y. (2019). <em>Marketing</em> digital: navegando en aguas digitales. sumérgete conmigo. Ediciones de la U',
+        'Xie, S., y Min, Y. (2019). <em>Marketing</em> digital: navegando en aguas digitales. sumérgete conmigo. Ediciones de la U.',
     },
   ],
   creditos: [

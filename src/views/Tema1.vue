@@ -93,7 +93,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 <em>Marketing</em> en entornos digitales 
 
-    p.mb-5 Según Xie y Min (2019), el objetivo del <em>marketing</em> digital es aprovechar internet y demás formas de promoción <em>online</em> para comunicarse con el público objetivo de forma rentable, y permitiendo un trabajo colaborativo con socios empresariales con los que pueda existir un interés en común. Cuando se habla de <em>marketing</em> digital, primero se habla de estrategias y herramientas alojadas en la <em>web,</em> y segundo, se habla también de las pantallas digitales a través de computadores de escritorio, portátiles, celulares, tablets, televisores, consolas de videojuegos y relojes <em>smart.</em> 
+    p.mb-5 Según Xie y Min (2019), el objetivo del <em>marketing</em> digital es aprovechar internet y demás formas de promoción <em>online</em> para comunicarse con el público objetivo de forma rentable, y permitiendo un trabajo colaborativo con socios empresariales con los que pueda existir un interés en común. Cuando se habla de <em>marketing</em> digital, primero se habla de estrategias y herramientas alojadas en la <em>web,</em> y segundo, se habla también de las pantallas digitales a través de computadores de escritorio, portátiles, celulares, <em>tablets,</em> televisores, consolas de videojuegos y relojes <em>smart.</em> 
 
     .row.mb-5
       .col-md-4.mb-3
@@ -114,7 +114,7 @@
         .p-2
           h3.mb-0.ms-3 Las 4F del <em>marketing</em> digital
 
-    p.mb-5 El <em>marketing</em> digital se basa en 4F, que vienen siendo variables compuestas por una estrategia de mercadeo efectiva, como lo hace el <em>marketing mix</em> y sus 4P: <strong>precio, producto, plaza e impulsión.</strong> En el caso de las 4F se incluyen <strong>flujo, funcionalidad, <em>feedback</em> y fidelización</strong> las cuales se detallan a continuación. 
+    p.mb-5 El <em>marketing</em> digital se basa en 4F, que vienen siendo variables compuestas por una estrategia de mercadeo efectiva, como lo hace el <em>marketing mix</em> y sus 4P: <strong>precio, producto, plaza e impulsión.</strong> En el caso de las 4F, se incluyen <strong>flujo, funcionalidad, <em>feedback</em> y fidelización,</strong> las cuales se detallan a continuación. 
 
     .BGIMG01.p-5.mb-5
       SlyderA(tipo="b")
@@ -587,7 +587,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Uno de los objetivos de las marcas es <strong>la entrega de valor para el público objetivo con un beneficio.</strong> En una economía tan competitiva, con públicos cada vez más informados y con muchas opciones, la marca solo puede ganar ajustando el proceso de entrega de valor y elegir, suministrar e informar un valor preferente. 
 
-    p La visión tradicional del mercadeo es que la marca produce algo para venderlo; el mercadeo ocurre exactamente en el proceso de venta. Las marcas que tienen esta visión poseen más oportunidades de éxito en economías que se caracterizan por la escasez de productos, y donde los clientes no exigen por calidad, características o estilo. Pero, esta visión tradicional no funciona en economías donde encuentra distintos tipos de clientes, con deseos, percepciones, predilecciones y juicios de compra personales. La marca que compite de forma inteligente diseña y entrega ofertas para mercados objetivo bien específicos. 
+    p La visión tradicional del mercadeo es que la marca produce algo para venderlo; el mercadeo ocurre exactamente en el proceso de venta. Las marcas que tienen esta visión poseen más oportunidades de éxito en economías que se caracterizan por la escasez de productos, y donde los clientes no exigen por calidad, características o estilo. Pero, esta visión tradicional no funciona en economías donde encuentra distintos tipos de clientes, con deseos, percepciones, predilecciones y juicios de compra personales. La marca que compite de forma inteligente, diseña y entrega ofertas para mercados objetivo bien específicos. 
     p.mb-5 A continuación, se expone la descripción de cada una de las estrategias a implementar en este proceso, plan de mercadeo, planeación estratégica y planeación táctica. 
 
     .row.justify-content-center.align-items-center.mb-3
@@ -607,7 +607,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/decorador-17.svg', alt='Texto que describa la imagen')
               
-            p.text-center(style="color:#000") La planeación estratégica de mercadeo establece los mercados objetivo y la propuesta de valor de la marca de acuerdo al estudio de las mejores oportunidades de mercado.  
+            p.text-center(style="color:#000") La planeación estratégica de mercadeo establece los mercados objetivos y la propuesta de valor de la marca de acuerdo al estudio de las mejores oportunidades de mercado.  
 
           .col-md.tarjeta.color-acento-contenido.p-4(style="background-color:#E4FDFB")
             .row.justify-content-center.mb-4
@@ -823,7 +823,7 @@
 
           .row(titulo="Paso 4. Formulación estratégica")
             .col-md-12.mb-4.mb-md-0
-              p Las metas muestran lo que quiere conseguir una unidad de negocio; la estrategia es el plan para alcanzar el cumplimiento. Para lograr las metas cada negocio debe crear una estrategia de mercadeo, una estrategia tecnológica (digital) y una estrategia de aprovisionamiento.
+              p Las metas muestran lo que quiere conseguir una unidad de negocio; la estrategia es el plan para alcanzar el cumplimiento. Para lograr las metas, cada negocio debe crear una estrategia de mercadeo, una estrategia tecnológica (digital) y una estrategia de aprovisionamiento.
 
               .row.justify-content-center.align-items-center.mb-0
                 .col-10.col-md-10.col-lg-12
@@ -876,7 +876,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/decorador-25.svg', alt='Texto que describa la imagen')
               
-            p.text-center Identifiquen y perfilen diferentes grupos de compradores, cuyas necesidades y deseos son distintas (segmentación del mercado).
+            p.text-center Identifiquen y perfilen diferentes grupos de compradores, cuyas necesidades y deseos son distintos (segmentación del mercado).
 
           .col-md.tarjeta.color-acento-botones.p-4(style="background-color:#FFFBE5")
             .row.justify-content-center.mb-4
@@ -910,7 +910,7 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Segmentación geográfica")
             .col-md-12.mb-4.mb-md-0
-              p Permite concebir dónde están localizados de forma geográfica los consumidores potenciales del producto. Trabaja sobre el principio de que la gente que corresponde a esa zona geográfica tiene necesidades, deseos y características culturales parecidas. Con estos datos las marcas pueden crear sus campañas de manera estratégica, usando el lenguaje correcto y comprendiendo si su oferta es importante para las personas de esa región. Para hacer una segmentación geográfica debes tener en cuenta algunas variables:
+              p Permite concebir dónde están localizados de forma geográfica los consumidores potenciales del producto. Trabaja sobre el principio de que la gente que corresponde a esa zona geográfica tiene necesidades, deseos y características culturales parecidas. Con estos datos, las marcas pueden crear sus campañas de manera estratégica, usando el lenguaje correcto y comprendiendo si su oferta es importante para las personas de esa región. Para hacer una segmentación geográfica debes tener en cuenta algunas variables:
               
               .tarjeta.tarjeta.p-4.mb-3(style="background-color:#FFFF")
                 .row
@@ -934,7 +934,7 @@
 
           .row(numero="2" titulo="Segmentación demográfica")
             .col-md-12.mb-4.mb-md-0
-              p Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socio económico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir. 
+              p Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socioeconómico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir. 
             
             .row.justify-content-center.align-items-center.mb-0
               .col-10.col-md-10.col-lg-12
@@ -1031,7 +1031,7 @@ export default {
       {
         titulo: 'Bienes',
         texto:
-          'Productos tangibles que conforman la mayor parte de la producción. Todos los años las empresas a nivel internacional promocionan millones de bienes alimenticios frescos, embotellados, congelados o en bolsa; así como también millones de autos, productos refrigerados, celulares, etc.',
+          'Productos tangibles que conforman la mayor parte de la producción. Todos los años, las empresas a nivel internacional promocionan millones de bienes alimenticios frescos, embotellados, congelados o en bolsa; así como también millones de autos, productos refrigerados, celulares, etc.',
         imagen: require('@/assets/curso/temas/tema1/img-1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -1045,28 +1045,28 @@ export default {
       {
         titulo: 'Eventos',
         texto:
-          'Especialistas en mercadeo promocionan eventos que se basan en el tiempo como por ejemplo, conferencias, muestras artísticas, ferias industriales, conciertos y aniversarios empresariales. <br> El Mundial de Fútbol y los Juegos Olímpicos se promocionan cada cuatro años con un gran impacto publicitario, tanto hacia las compañías, como también hacia la misma sociedad.',
+          'Especialistas en mercadeo promocionan eventos que se basan en el tiempo como, por ejemplo, conferencias, muestras artísticas, ferias industriales, conciertos y aniversarios empresariales. <br> El Mundial de Fútbol y los Juegos Olímpicos se promocionan cada cuatro años con un gran impacto publicitario, tanto hacia las compañías, como también hacia la misma sociedad.',
         imagen: require('@/assets/curso/temas/tema1/img-3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Experiencias',
         texto:
-          'Una empresa, al tener varios bienes y servicios, puede crear, ajustar y promocionar experiencias. Por ejemplo, Walt Disney World a través de su parque Magic Kingdom permite a la sociedad disfrutar de un mundo maravilloso e inolvidable. <br> También hay ejemplos con experiencias más personalizadas, tales como vivir unos días en un campamento de fútbol con ídolos retirados del deporte, o vivir la fantasía de ser un músico en un campamento de rock and roll en Las Vegas durante cuatro días.',
+          'Una empresa, al tener varios bienes y servicios, puede crear, ajustar y promocionar experiencias. Por ejemplo, <em>Walt Disney World</em> a través de su parque <em>Magic Kingdom</em> permite a la sociedad disfrutar de un mundo maravilloso e inolvidable. <br> También hay ejemplos con experiencias más personalizadas, tales como vivir unos días en un campamento de fútbol con ídolos retirados del deporte, o vivir la fantasía de ser un músico en un campamento de rock and roll en Las Vegas durante cuatro días.',
         imagen: require('@/assets/curso/temas/tema1/img-4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Personas',
         texto:
-          'Músicos, deportistas, artistas, médicos, odontólogos, psicólogos, arquitectos, ingenieros y otros profesionales de gran trayectoria reciben asesoría de los mejores especialistas en mercadeo. <br> Crear una marca personal es una recomendación que se le hace a este tipo de profesionales',
+          'Músicos, deportistas, artistas, médicos, odontólogos, psicólogos, arquitectos, ingenieros y otros profesionales de gran trayectoria reciben asesoría de los mejores especialistas en mercadeo. <br> Crear una marca personal es una recomendación que se le hace a este tipo de profesionales.',
         imagen: require('@/assets/curso/temas/tema1/img-5.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Lugares',
         texto:
-          'Países, estados, ciudades, barrios y locaciones compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. <br> Las Vegas Convention & Visitors Authority, creó un eslogan que caló en los clientes, “Lo que sucede en Las vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad.',
+          'Países, estados, ciudades, barrios y locaciones compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. <br> Las Vegas <em>Convention & Visitors Authority,</em> creó un eslogan que caló en los clientes, “Lo que sucede en Las Vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad.',
         imagen: require('@/assets/curso/temas/tema1/img-6.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

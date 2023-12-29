@@ -460,7 +460,7 @@
         .tarjeta.color-primario.p-4.col-ipad(style="background-color:#FFFBE5")
           .row.justify-content-center.mb-3
             .col-8
-              img(src='@/assets/curso/temas/tema3/img-40.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img-42.png' alt='AvatarTop')
           p ¿Qué tipo de datos consume y en qué canales o medios?
 
     .row.justify-content-center.align-items-center.mb-4
@@ -677,7 +677,7 @@
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="<em>Buyer</em> persona influenciador")
             h3 <em>Buyer</em> persona influenciador
-            p Persona que tiene una opinión, bien sea positiva o negativa, y que influye directamente en la acción de compra. Es vital saber quién es este tipo de buyer persona, porque ayuda a decidir con quiénes se pueden enfocar los esfuerzos a la hora de ofrecer el producto al interior de una empresa
+            p Persona que tiene una opinión, bien sea positiva o negativa, y que influye directamente en la acción de compra. Es vital saber quién es este tipo de buyer persona, porque ayuda a decidir con quiénes se pueden enfocar los esfuerzos a la hora de ofrecer el producto al interior de una empresa.
 
           .tarjeta(style="background-color:#FFFBE5; max-width:100%").p-4(titulo="<em>Buyer</em> persona negativo")
             h3 <em>Buyer</em> persona negativo
@@ -689,7 +689,7 @@
       h2 3.6  Concepto de prospecto de cliente
 
     p El prospecto es objetivo del vendedor y el segmento de cliente es objetivo del departamento de mercadeo. Lo normal es que el prospecto corresponda al segmento de cliente que el área de mercadeo definió como el receptor del producto que vende la marca, pero, mientras que el segmento de mercado es amplio y no tiene nombre y apellidos porque son muchas personas, el prospecto es personalizado y sí los tiene. 
-    p.mb-5 El prospecto es objetivo del vendedor y el segmento de cliente es objetivo del departamento de mercadeo. Lo normal es que el prospecto corresponda al segmento de cliente que el área de mercadeo definió como el receptor del producto que vende la marca, pero, mientras que el segmento de mercado es amplio y no tiene nombre y apellidos porque son muchas personas, el prospecto es personalizado y sí los tiene. 
+    p.mb-5 Por lo tanto, el vendedor debe obtener una visita al prospecto para presentarle el producto. De hecho, la investigación y la búsqueda de clientes potenciales, que hacen parte de la primera fase comercial desarrollada por cualquier vendedor, dan como resultado el prospecto. El prospecto, que es mucho más que alguien perteneciente al segmento de cliente de la marca, debe que reunir tres características:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
