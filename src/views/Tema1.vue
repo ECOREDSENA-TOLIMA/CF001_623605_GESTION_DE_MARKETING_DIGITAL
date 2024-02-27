@@ -339,13 +339,17 @@
 
               .row.justify-content-center.align-items-center.mb-0
                 .col-10.col-md-10.col-lg-10.desktop
+                  .titulo-sexto.color-acento-contenido
+                    p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Definición de objetivos a alcanzar.</em>
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-19-1.svg', alt='La figura presenta una secuencia de preguntas esenciales para llevar a cabo un análisis destinado a la definición de los objetivos del plan de mercadeo.')
+                    img(src='@/assets/curso/temas/tema1/img-19-1.svg', alt='Definición de objetivos a alcanzar. Conlleva a realizar un análisis DOFA, áreas relacionadas, dilucida los objetivos a alcanzar, obstáculos y pertinencia de los objetivos definidos.')
 
               .row.mt-2.mb-3
                 .col-10.col-md-10.col-lg-12.movil
+                  .titulo-sexto.color-acento-contenido
+                    p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Definición de objetivos a alcanzar.</em>
                   figure
-                    img(src='@/assets/curso/temas/tema1/img-19-2.svg', alt='La figura presenta una secuencia de preguntas esenciales para llevar a cabo un análisis destinado a la definición de los objetivos del plan de mercadeo.')
+                    img(src='@/assets/curso/temas/tema1/img-19-2.svg', alt='Definición de objetivos a alcanzar. Conlleva a realizar un análisis DOFA, áreas relacionadas, dilucida los objetivos a alcanzar, obstáculos y pertinencia de los objetivos definidos.')
 
               p En el plan de mercadeo digital se deben establecer los objetivos cuantitativos y cualitativos que va a perseguir la marca con la creación del sitio <em>web.</em> Así, cada marca podrá elegir los objetivos más convenientes, con el fin de lograr la rentabilidad esperada en la planeación estratégica. 
               p Estos objetivos dependen de las características del producto ofrecido en la <em>web</em> y, se pueden basar en: 
@@ -622,16 +626,16 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-10.col-md-10.col-lg-12.desktop(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Grafica planeación estratégica.</em>
+              p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Grafica planeación estratégica.</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema1/img-28-1.svg', alt='En la figura 1 se muestran tres pilares de la planeación estratégica, la planificación, la implementación y el control, estos actuan de manera cíclica con el objetivo de establecer la dirección de la organización y adaptarse al entorno.')
+              img.mb-3(src='@/assets/curso/temas/tema1/img-28-1.svg', alt='En la figura 2 se muestran tres pilares de la planeación estratégica, la planificación, la implementación y el control, estos actuan de manera cíclica con el objetivo de establecer la dirección de la organización y adaptarse al entorno.')
 
         .row.mt-5.mb-2
           .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Grafica planeación estratégica.</em>
+              p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Grafica planeación estratégica.</em>
             figure
-              img(src='@/assets/curso/temas/tema1/img-28-2.svg', alt='En la figura 1 se muestran tres pilares de la planeación estratégica, la planificación, la implementación y el control, estos actuan de manera cíclica con el objetivo de establecer la dirección de la organización y adaptarse al entorno.') 
+              img(src='@/assets/curso/temas/tema1/img-28-2.svg', alt='En la figura 2 se muestran tres pilares de la planeación estratégica, la planificación, la implementación y el control, estos actuan de manera cíclica con el objetivo de establecer la dirección de la organización y adaptarse al entorno.') 
 
         .row.justify-content-center.align-items-center.mb-4
           .col-12(data-aos="fade-down-right")
@@ -730,17 +734,17 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Grafica planeación estratégica de las unidades de negocio.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Grafica planeación estratégica de las unidades de negocio.</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img-30-1.svg', alt='En la figura 2 se muestra el proceso de la planeación estratégica, que parte de la misión del negocio, incluye entre otros la FODA, la formulación de metas y estrategias, terminando en la retroalimentación y el control.')
+          img.mb-3(src='@/assets/curso/temas/tema1/img-30-1.svg', alt='En la figura 3 se muestra el proceso de la planeación estratégica, que parte de la misión del negocio, incluye entre otros la FODA, la formulación de metas y estrategias, terminando en la retroalimentación y el control.')
           figcaption Nota. Tomada de <a href="https://www.facebook.com/Agenciamonkeyplus/photos/la-planificaci%C3%B3n-estrat%C3%A9gica-en-unidades-estrat%C3%A9gicas-de-negocios-uen-es-un-ejer/2781502485230983/?_rdr">https://www.facebook.com/Agenciamonkeyplus/photos/la-planificaci%C3%B3n-estrat%C3%A9gica-en-unidades-estrat%C3%A9gicas-de-negocios-uen-es-un-ejer/2781502485230983/?_rdr</a>
 
     .row.mt-5.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Grafica planeación estratégica de las unidades de negocio.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Grafica planeación estratégica de las unidades de negocio.</em>
         figure
-          img(src='@/assets/curso/temas/tema1/img-30-2.svg', alt='En la figura 2 se muestra el proceso de la planeación estratégica, que parte de la misión del negocio, incluye entre otros la FODA, la formulación de metas y estrategias, terminando en la retroalimentación y el control.') 
+          img(src='@/assets/curso/temas/tema1/img-30-2.svg', alt='En la figura 3 se muestra el proceso de la planeación estratégica, que parte de la misión del negocio, incluye entre otros la FODA, la formulación de metas y estrategias, terminando en la retroalimentación y el control.') 
           figcaption Nota. Tomada de <a href="https://www.facebook.com/Agenciamonkeyplus/photos/la-planificaci%C3%B3n-estrat%C3%A9gica-en-unidades-estrat%C3%A9gicas-de-negocios-uen-es-un-ejer/2781502485230983/?_rdr">Agenciamonkeyplus</a>
 
     .row.mb-4
@@ -1052,7 +1056,7 @@ export default {
       {
         titulo: 'Experiencias',
         texto:
-          'Una empresa, al tener varios bienes y servicios, puede crear, ajustar y promocionar experiencias. Por ejemplo, <em>Walt Disney World</em> a través de su parque <em>Magic Kingdom</em> permite a la sociedad disfrutar de un mundo maravilloso e inolvidable. <br> También hay ejemplos con experiencias más personalizadas, tales como vivir unos días en un campamento de fútbol con ídolos retirados del deporte, o vivir la fantasía de ser un músico en un campamento de rock and roll en Las Vegas durante cuatro días.',
+          'Una empresa, al tener varios bienes y servicios, puede crear, ajustar y promocionar experiencias. Por ejemplo, Walt Disney World a través de su parque Magic Kingdom permite a la sociedad disfrutar de un mundo maravilloso e inolvidable. <br> También hay ejemplos con experiencias más personalizadas, tales como vivir unos días en un campamento de fútbol con ídolos retirados del deporte, o vivir la fantasía de ser un músico en un campamento de rock and roll en Las Vegas durante cuatro días.',
         imagen: require('@/assets/curso/temas/tema1/img-4.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -1066,7 +1070,7 @@ export default {
       {
         titulo: 'Lugares',
         texto:
-          'Países, estados, ciudades, barrios y locaciones compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. <br> Las Vegas <em>Convention & Visitors Authority,</em> creó un eslogan que caló en los clientes, “Lo que sucede en Las Vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad.',
+          'Países, estados, ciudades, barrios y locaciones compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. <br> Las Vegas Convention & Visitors Authority, creó un eslogan que caló en los clientes, “Lo que sucede en Las Vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad.',
         imagen: require('@/assets/curso/temas/tema1/img-6.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

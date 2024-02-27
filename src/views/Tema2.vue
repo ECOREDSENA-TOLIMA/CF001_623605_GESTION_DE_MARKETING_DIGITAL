@@ -14,16 +14,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-8.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor</em>
+          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Factores claves para crear propuestas de valor</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-32-1.svg', alt='En la figura 3 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.')
+          img.mb-3(src='@/assets/curso/temas/tema2/img-32-1.svg', alt='En la figura 4 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.')
 
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-8.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Factores claves para crear propuestas de valor</em>
+          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Factores claves para crear propuestas de valor</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-32-2.svg', alt='En la figura 3 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.') 
+          img(src='@/assets/curso/temas/tema2/img-32-2.svg', alt='En la figura 4 se presentan tres factores para crear propuesta de valor, las necesidades de los usuarios, la propuesta de valor de los competidores y la propia, que convergen en los puntos de diferencia y de paridad.') 
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -60,22 +60,22 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Lienzo propuesta de valor</em>
+          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Lienzo propuesta de valor</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-1-1.svg', alt='En la figura 4 se presentan los factores esenciales para desarrollar una oferta de valor exitosa, considerando tanto los aspectos positivos que generan satisfacción como las posibles frustraciones del segmento de mercado seleccionado.')
-          figcaption Nota. Tomada y adaptada de https://www.alfonsomorant.com/herramientas-fundamentales-para-crear-valor-en-la-empresa-modelo-del-lienzo-de-la-propuesta-de-valor/
+          img.mb-3(src='@/assets/curso/temas/tema2/img-1-1.svg', alt='En la figura 5 se presentan los factores esenciales para desarrollar una oferta de valor exitosa, considerando tanto los aspectos positivos que generan satisfacción como las posibles frustraciones del segmento de mercado seleccionado.')
+          figcaption Nota. Tomada y adaptada de https://guillermofm.com/propuesta-de-valor/
 
     .row.mt-5.mb-4
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Lienzo propuesta de valor</em>
+          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Lienzo propuesta de valor</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-1-2.svg', alt='En la figura 4 se presentan los factores esenciales para desarrollar una oferta de valor exitosa, considerando tanto los aspectos positivos que generan satisfacción como las posibles frustraciones del segmento de mercado seleccionado.') 
-          figcaption Nota. Tomada y adaptada de https://www.alfonsomorant.com/herramientas-fundamentales-para-crear-valor-en-la-empresa-modelo-del-lienzo-de-la-propuesta-de-valor/
+          img(src='@/assets/curso/temas/tema2/img-1-2.svg', alt='En la figura 5 se presentan los factores esenciales para desarrollar una oferta de valor exitosa, considerando tanto los aspectos positivos que generan satisfacción como las posibles frustraciones del segmento de mercado seleccionado.') 
+          figcaption Nota. Tomada y adaptada de https://guillermofm.com/propuesta-de-valor/
     
     .row.justify-content-center.align-items-center.mb-5
       .col-10(data-aos="fade-down-right")
-        p Para entender con mayor precisión el lienzo de valor es importante reconocer la definición de cada uno de los conceptos a registrar de la siguiente forma:
+        p Para entender con mayor precisión el lienzo de valor, es importante reconocer la definición de cada uno de los conceptos a registrar de la siguiente forma:
 
         .tarjeta.tarjeta.p-4.mt-4.mb-4(style="background:#FFFBE5")(data-aos="flip-up")
           .row.justify-content-center.align-items-center 
@@ -209,7 +209,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En la gerencia, poder observar estas unidades de manera individual facilita tomar decisiones estratégicas para el resto del portafolio. De igual forma, cada unidad se puede entender como un activo. El portafolio permite valorar la factibilidad de continuar, o no, con algún otro producto, así como proponer el monto de las inversiones.
 
-        p.mb-5 La matriz BCG, fue creada en Estados Unidos por el <em>Boston Consulting Group,</em> también llamada Matriz de Portafolio Corporativo; se usa, generalmente, con la finalidad de perfeccionar la asignación de recursos a todos los productos de la marca, hace una división de los productos en cuatro cuadrantes que se delimitan de acuerdo con el porcentaje de crecimiento y participación respectiva en el mercado como se presenta a continuación:
+        p.mb-5 La matriz BCG, fue creada en Estados Unidos por el Boston Consulting Group, también llamada Matriz de Portafolio Corporativo; se usa, generalmente, con la finalidad de perfeccionar la asignación de recursos a todos los productos de la marca, hace una división de los productos en cuatro cuadrantes que se delimitan de acuerdo con el porcentaje de crecimiento y participación respectiva en el mercado como se presenta a continuación:
 
         ImagenInfografica.color-acento-botones.mb-5.desktop
           template(v-slot:imagen)

@@ -42,17 +42,17 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía</em>
+              p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Grafica mapas de empatía</em>
             figure
-              img.mb-3(src='@/assets/curso/temas/tema3/img-2-1.svg', alt='En la figura 5 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?')
+              img.mb-3(src='@/assets/curso/temas/tema3/img-2-1.svg', alt='En la figura 6 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?')
               figcaption Nota. Tomada y adaptada de https://rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
 
         .row.mt-5.mb-2
           .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Grafica mapas de empatía</em>
+              p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Grafica mapas de empatía</em>
             figure
-              img(src='@/assets/curso/temas/tema3/img-2-2.svg', alt='En la figura 5 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?') 
+              img(src='@/assets/curso/temas/tema3/img-2-2.svg', alt='En la figura 6 se detallan las preguntas clave que deben abordarse para construir un mapa de empatía, las cuales son: ¿Qué piensa y siente? ¿Qué escucha? ¿Qué hace? ¿Qué ve? ¿Cuáles son sus dolores? ¿Cuáles son sus necesidades?') 
               figcaption Nota. Tomada y adaptada de https://rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
 
     .row.align-items-center.mb-4
@@ -717,17 +717,17 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>¿Cómo convertir prospectos en clientes?.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>¿Cómo convertir prospectos en clientes?.</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img-56-1.svg', alt='En la figura 6 se describe el proceso de convertir prospectos en clientes. Inicia con la captura del lead, pasa a calificado, continua con la aceptación del equipo de ventas, pasa a oportunidad de negocio y finalmente se consigue el cliente.')
+          img.mb-3(src='@/assets/curso/temas/tema3/img-56-1.svg', alt='En la figura 7 se describe el proceso de convertir prospectos en clientes. Inicia con la captura del lead, pasa a calificado, continua con la aceptación del equipo de ventas, pasa a oportunidad de negocio y finalmente se consigue el cliente.')
           figcaption Nota. Tomada y adaptada de https://tudashboard.com/como-convertir-prospectos-en-clientes/
           
     .row.mt-5.mb-2
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>¿Cómo convertir prospectos en clientes?.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>¿Cómo convertir prospectos en clientes?.</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-56-2.svg', alt='En la figura 6 se describe el proceso de convertir prospectos en clientes. Inicia con la captura del lead, pasa a calificado, continua con la aceptación del equipo de ventas, pasa a oportunidad de negocio y finalmente se consigue el cliente.')
+          img(src='@/assets/curso/temas/tema3/img-56-2.svg', alt='En la figura 7 se describe el proceso de convertir prospectos en clientes. Inicia con la captura del lead, pasa a calificado, continua con la aceptación del equipo de ventas, pasa a oportunidad de negocio y finalmente se consigue el cliente.')
           figcaption Nota. Tomada y adaptada de https://tudashboard.com/como-convertir-prospectos-en-clientes/
 
     Separador 
