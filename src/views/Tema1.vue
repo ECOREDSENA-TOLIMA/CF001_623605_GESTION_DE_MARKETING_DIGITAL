@@ -100,7 +100,7 @@
         figure
             img(src='@/assets/curso/temas/tema1/img-3.svg', alt='')
       .col-md-8
-        p Es uno de los pilares en los que, por ejemplo, las agencias de turismo deben apoyarse si desean conquistar una parte de las ventas realizadas por una comunidad de turistas 2.0 que están en búsqueda de un viaje a través de internet. En estos entornos digitales se puede buscar información sobre los destinos deseados y tener una asesoría en cuanto a los precios. Esta información y asesoría es presentada por agencias de viajes <em>online u OTA (On Line Travel Agency).</em>
+        p Es uno de los pilares en los que, por ejemplo, las agencias de turismo deben apoyarse si desean conquistar una parte de las ventas realizadas por una comunidad de turistas 2.0 que están en búsqueda de un viaje a través de internet. En estos entornos digitales se puede buscar información sobre los destinos deseados y tener una asesoría en cuanto a los precios. Esta información y asesoría es presentada por agencias de viajes <em>online</em> u OTA (On Line Travel Agency).
         .row
           .col-lg-12
             .cajon.color-secundario.p-4.mb-4(style="background-color:#FFFBE5")

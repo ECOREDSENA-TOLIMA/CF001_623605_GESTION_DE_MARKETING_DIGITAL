@@ -420,7 +420,7 @@
               figure(data-aos="fade-right")
                 img(src='@/assets/curso/temas/tema2/decorador-5.svg', alt='Texto que describa la imagen')
             .col-lg-9
-              p La introducción de productos digitales, por ejemplo, puede verse favorecida por algunas herramientas, como por ejemplo redes sociales, <em>sitio web, blogs,</em> foros, <em>chats,</em> etc., que de manera económica, creativa y recursiva ayudan a las pymes para lograr posicionar no solo la marca, sino los productos. Además, se entiende que el uso de estrategias acciones de mercadeo digital ayudan a que el producto sea exitoso en poco tiempo.
+              p La introducción de productos digitales, por ejemplo, puede verse favorecida por algunas herramientas, como por ejemplo redes sociales, sitio <em>web</em>, <em>blogs</em>, foros, <em>chats</em>, etc., que de manera económica, creativa y recursiva ayudan a las pymes para lograr posicionar no solo la marca, sino los productos. Además, se entiende que el uso de estrategias acciones de mercadeo digital ayudan a que el producto sea exitoso en poco tiempo.
               p En la etapa de introducción, se debe haber desarrollado el mapeo del <em>buyer</em> persona de la marca. Esa información ayuda a comprender la necesidad real del cliente, mejorando la precisión de las acciones estratégicas, así como la optimización en el alcance territorial del producto.
         
         p.mb-4 Por su lado, en las etapas de crecimiento y madurez, un elemento para tener en cuenta es la analítica (métricas). El uso de los indicadores correctos será de gran utilidad para el producto digital. A continuación, algunas métricas importantes: 
